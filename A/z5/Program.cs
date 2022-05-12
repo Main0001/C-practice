@@ -6,12 +6,15 @@ namespace z5
     {
         static void Main(string[] args)
         {
-            int distance = 67;
-            double gasConsumption = 8.5, gasPrice = 6.5, cost;
+            int distance;
+            double gasConsumption, gasPrice, cost;
             Console.WriteLine("Price of trip to cottage.");
-            Console.WriteLine($"Distance to cottage (km) --> {distance}");
-            Console.WriteLine($"Consumtion of gas (liters to 100 km mileage) --> {gasConsumption}");
-            Console.WriteLine($"Litere of gas price (Rub) --> {gasPrice}");
+            Console.Write("Distance to cottage (km) --> ");
+            distance = int.Parse(Console.ReadLine());
+            Console.Write("Consumtion of gas (liters to 100 km mileage) --> ");
+            gasConsumption = Double.Parse(Console.ReadLine());
+            Console.Write("Litere of gas price (Rub) --> ");
+            gasPrice = Double.Parse(Console.ReadLine());
             cost = 2 * (((gasConsumption / 100) * distance) * gasPrice);
             Console.WriteLine($"Price of trip to cottage costs in {Math.Round(cost,2)} Rub");
             Console.ReadLine();
