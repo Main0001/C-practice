@@ -1,0 +1,15 @@
+G:\Колледж\Практика C#\1\Новая папка\A\z7\obj\Debug\net5.0\z7.GeneratedMSBuildEditorConfig.editorconfig
+G:\Колледж\Практика C#\1\Новая папка\A\z7\obj\Debug\net5.0\z7.AssemblyInfoInputs.cache
+G:\Колледж\Практика C#\1\Новая папка\A\z7\obj\Debug\net5.0\z7.AssemblyInfo.cs
+G:\Колледж\Практика C#\1\Новая папка\A\z7\obj\Debug\net5.0\z7.csproj.CoreCompileInputs.cache
+G:\Колледж\Практика C#\1\Новая папка\A\z7\bin\Debug\net5.0\z7.exe
+G:\Колледж\Практика C#\1\Новая папка\A\z7\bin\Debug\net5.0\z7.deps.json
+G:\Колледж\Практика C#\1\Новая папка\A\z7\bin\Debug\net5.0\z7.runtimeconfig.json
+G:\Колледж\Практика C#\1\Новая папка\A\z7\bin\Debug\net5.0\z7.runtimeconfig.dev.json
+G:\Колледж\Практика C#\1\Новая папка\A\z7\bin\Debug\net5.0\z7.dll
+G:\Колледж\Практика C#\1\Новая папка\A\z7\bin\Debug\net5.0\ref\z7.dll
+G:\Колледж\Практика C#\1\Новая папка\A\z7\bin\Debug\net5.0\z7.pdb
+G:\Колледж\Практика C#\1\Новая папка\A\z7\obj\Debug\net5.0\z7.dll
+G:\Колледж\Практика C#\1\Новая папка\A\z7\obj\Debug\net5.0\ref\z7.dll
+G:\Колледж\Практика C#\1\Новая папка\A\z7\obj\Debug\net5.0\z7.pdb
+G:\Колледж\Практика C#\1\Новая папка\A\z7\obj\Debug\net5.0\z7.genruntimeconfig.cache
