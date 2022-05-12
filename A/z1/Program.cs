@@ -8,13 +8,13 @@ namespace z1
         {
             float x, multiple, divide;
             int y;
-            Console.WriteLine("Enter x value: ");
-            Console.WriteLine("Enter y value: ");
-            y = int.Parse(Console.ReadLine());
+            Console.Write("x = ");
             x = float.Parse(Console.ReadLine());
+            Console.Write("y = ");
+            y = int.Parse(Console.ReadLine());
             multiple = x * 3;
             divide = multiple / y;
-            Console.WriteLine($"Rounded to 4 digits value: {Math.Round(multiple, 4)} / {y} = {divide}");
+            Console.WriteLine($"Rounded to 4 digits value: {multiple} / {y} = {Math.Round(divide, 4)}");
         }
     }
 }
