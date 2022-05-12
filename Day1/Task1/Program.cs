@@ -11,7 +11,7 @@ double d = Convert.ToDouble(Console.ReadLine());
 try
 {
     result = a / b + c / d;
-    Console.WriteLine($"{a} / {b} + {c} / {d} = {result}");
+    Console.WriteLine($"{a} / {b} + {c} / {d} = {Math.Round(result, 2)}");
 }
 catch (Exception ex)
 {
