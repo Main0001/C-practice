@@ -1,2 +1,103 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿static double MakeSomethingWrong(double x)
+{
+    double y = Math.Log(x + Math.Sqrt(Math.Pow(x, 2) + 9)) - (x+1) / Math.Atan(Math.Pow(x, 3));
+    return y;
+}
+
+static int[] GetDigitsVariants(int num)
+{
+    var variants = new int[][]
+    {
+        new int []{ 0, 1, 2},
+        new int []{ 0, 2, 1},
+        new int []{ 2, 0, 1},
+        new int []{ 2, 1, 0},
+        new int []{ 1, 2, 0},
+        new int []{ 1, 0, 2},
+    };
+    var digits = new int[] { num / 100, (num % 100) / 10, num % 10 };
+    var result = new int[variants.GetLength(0)];
+    for (int i = 0; i < result.Length; i++)
+    {
+        var item = variants[i];
+        result[i] = digits[item[0]] * 100 + digits[item[1]] * 10 + digits[item[2]];
+    }
+    return result;
+}
+
+float v0 = 0, a = 0, t = 0;
+
+
+// Практическая часть, задание 4
+do
+{
+    Console.Write("Enter v0: ");
+    v0 = int.Parse(Console.ReadLine());
+} while (v0 < 0);
+
+do
+{
+    Console.Write("Enter t: ");
+    t = int.Parse(Console.ReadLine());
+} while (t < 0);
+
+do
+{
+    Console.Write("Enter a: ");
+    a = int.Parse(Console.ReadLine());
+} while (a < 0);
+
+
+double s = v0 * t + (a * Math.Sqrt(t) / 2);
+Console.WriteLine($"за время {t}сек.\nточка при ускорении, {a}м/с^2\nи начальной скорости, {v0}м/с\nпройдет расстояние: {s} м");
+
+
+
+
+// Практическая часть, задание 3
+Console.Write("Enter x: ");
+while (true)
+{
+    try
+    {
+        Console.WriteLine(MakeSomethingWrong(double.Parse(Console.ReadLine())));
+        break;
+    }
+    catch (Exception)
+    {
+        Console.WriteLine("Произошла ошибка попробуйте снова!");
+    }
+}
+
+
+
+// Практическая часть, задание 2
+
+foreach (var item in GetDigitsVariants(891))
+{
+    Console.WriteLine(item);
+}
+
+// Практическая часть, задание 1 
+
+float b;
+
+while (true)
+{
+    try
+    {
+        Console.Write("a = ");
+        a = float.Parse(Console.ReadLine());
+
+        Console.Write("b = ");
+        b = float.Parse(Console.ReadLine());
+        break;
+    }
+    catch (Exception)
+    {
+        Console.WriteLine("Произошла ошибка попробуйте снова!");
+    }
+}
+
+
+Console.WriteLine($"{a} + {b} = {a + b}");
