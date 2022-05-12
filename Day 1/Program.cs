@@ -1,6 +1,6 @@
 ﻿static double MakeSomethingWrong(double x)
 {
-    double y = Math.Log10(x + Math.Sqrt(Math.Pow(x, 2) + 9)) - (x+1) / Math.Atan(Math.Pow(x, 3));
+    double y = Math.Log10(x + Math.Sqrt(Math.Pow(x, 2) + 9)) - (x + 1) / Math.Atan(Math.Pow(x, 3));
     return y;
 }
 
@@ -74,8 +74,8 @@ while (true)
 
 // Практическая часть, задание 2
 // Водное занятие часть 2, задание 2
-
-foreach (var item in GetDigitsVariants(891))
+Console.Write("Enter nuber with 3 digits: ");
+foreach (var item in GetDigitsVariants(int.Parse(Console.ReadLine())))
 {
     Console.WriteLine(item);
 }
@@ -90,7 +90,6 @@ while (true)
     {
         Console.Write("a = ");
         a = float.Parse(Console.ReadLine());
-
         Console.Write("b = ");
         b = float.Parse(Console.ReadLine());
         break;
