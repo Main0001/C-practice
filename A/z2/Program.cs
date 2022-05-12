@@ -19,7 +19,7 @@ namespace z2
             {
                 if (i % 2 == 0) Swap(1, 2);
                 else Swap(0, 2);
-                Console.Write($"{builder,-4} ");
+                Console.Write($"Swap value: {builder,-4} ");
             }
             Console.ReadLine();
         }
