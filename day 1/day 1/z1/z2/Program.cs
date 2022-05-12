@@ -10,7 +10,7 @@ try
     firstNum = number / 10;
     lastNum = number % 10;
 
-    Console.WriteLine($"Первое цифра {firstNum} и последняя цифра {lastNum}");
+    Console.WriteLine($"Первая цифра {firstNum} и последняя цифра {lastNum}");
 }
 catch (Exception ex)
 { 
