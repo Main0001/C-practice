@@ -1,6 +1,6 @@
 ﻿static double MakeSomethingWrong(double x)
 {
-    double y = Math.Log(x + Math.Sqrt(Math.Pow(x, 2) + 9)) - (x+1) / Math.Atan(Math.Pow(x, 3));
+    double y = Math.Log10(x + Math.Sqrt(Math.Pow(x, 2) + 9)) - (x+1) / Math.Atan(Math.Pow(x, 3));
     return y;
 }
 
@@ -55,6 +55,7 @@ Console.WriteLine($"за время {t}сек.\nточка при ускорен
 
 
 // Практическая часть, задание 3
+// Z3
 Console.Write("Enter x: ");
 while (true)
 {
@@ -72,6 +73,7 @@ while (true)
 
 
 // Практическая часть, задание 2
+// Водное занятие часть 2, задание 2
 
 foreach (var item in GetDigitsVariants(891))
 {
@@ -101,3 +103,20 @@ while (true)
 
 
 Console.WriteLine($"{a} + {b} = {a + b}");
+
+
+// Водное занятие часть 2, задание 1
+Console.WriteLine("Введите величину временного интервала(в минутах) и нажмите <Enter>");
+TimeSpan spWorkMin = TimeSpan.FromMinutes(int.Parse(Console.ReadLine()));
+Console.WriteLine(string.Format("{0:0}ч. {1:00} мин.", (int)spWorkMin.TotalHours, spWorkMin.Minutes));
+
+
+// Водное занятие часть 2, задание 3
+Console.WriteLine("Enter m:");
+float m = float.Parse(Console.ReadLine());
+double z1 = Math.Sqrt(Math.Pow(3 * m + 2, 2) - 24 * m) /
+    (3 * Math.Sqrt(m) - 2 / Math.Sqrt(m));
+
+double z2 = -Math.Sqrt(m);
+
+Console.WriteLine($"z1 - {z1}\nz2 - {z2}");
