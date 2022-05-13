@@ -13,3 +13,4 @@ G:\Колледж\Git\C-practice\1\1\z4\obj\Debug\net5.0\z4.dll
 G:\Колледж\Git\C-practice\1\1\z4\obj\Debug\net5.0\ref\z4.dll
 G:\Колледж\Git\C-practice\1\1\z4\obj\Debug\net5.0\z4.pdb
 G:\Колледж\Git\C-practice\1\1\z4\obj\Debug\net5.0\z4.genruntimeconfig.cache
+G:\Колледж\Git\C-practice\1\1\z4\obj\Debug\net5.0\z4.csproj.AssemblyReference.cache
