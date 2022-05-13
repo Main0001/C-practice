@@ -1,0 +1,15 @@
+D:\Практика по C#\Day2\Task4.1\bin\Debug\net6.0\Task4.1.exe
+D:\Практика по C#\Day2\Task4.1\bin\Debug\net6.0\Task4.1.deps.json
+D:\Практика по C#\Day2\Task4.1\bin\Debug\net6.0\Task4.1.runtimeconfig.json
+D:\Практика по C#\Day2\Task4.1\bin\Debug\net6.0\Task4.1.dll
+D:\Практика по C#\Day2\Task4.1\bin\Debug\net6.0\Task4.1.pdb
+D:\Практика по C#\Day2\Task4.1\obj\Debug\net6.0\Task4.1.csproj.AssemblyReference.cache
+D:\Практика по C#\Day2\Task4.1\obj\Debug\net6.0\Task4.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика по C#\Day2\Task4.1\obj\Debug\net6.0\Task4.1.AssemblyInfoInputs.cache
+D:\Практика по C#\Day2\Task4.1\obj\Debug\net6.0\Task4.1.AssemblyInfo.cs
+D:\Практика по C#\Day2\Task4.1\obj\Debug\net6.0\Task4.1.csproj.CoreCompileInputs.cache
+D:\Практика по C#\Day2\Task4.1\obj\Debug\net6.0\Task4.1.dll
+D:\Практика по C#\Day2\Task4.1\obj\Debug\net6.0\refint\Task4.1.dll
+D:\Практика по C#\Day2\Task4.1\obj\Debug\net6.0\Task4.1.pdb
+D:\Практика по C#\Day2\Task4.1\obj\Debug\net6.0\Task4.1.genruntimeconfig.cache
+D:\Практика по C#\Day2\Task4.1\obj\Debug\net6.0\ref\Task4.1.dll

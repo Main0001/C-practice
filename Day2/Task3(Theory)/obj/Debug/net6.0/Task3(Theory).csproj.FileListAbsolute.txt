@@ -1,0 +1,15 @@
+D:\Практика по C#\Day2\Task3(Theory)\bin\Debug\net6.0\Task3(Theory).exe
+D:\Практика по C#\Day2\Task3(Theory)\bin\Debug\net6.0\Task3(Theory).deps.json
+D:\Практика по C#\Day2\Task3(Theory)\bin\Debug\net6.0\Task3(Theory).runtimeconfig.json
+D:\Практика по C#\Day2\Task3(Theory)\bin\Debug\net6.0\Task3(Theory).dll
+D:\Практика по C#\Day2\Task3(Theory)\bin\Debug\net6.0\Task3(Theory).pdb
+D:\Практика по C#\Day2\Task3(Theory)\obj\Debug\net6.0\Task3(Theory).csproj.AssemblyReference.cache
+D:\Практика по C#\Day2\Task3(Theory)\obj\Debug\net6.0\Task3(Theory).GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика по C#\Day2\Task3(Theory)\obj\Debug\net6.0\Task3(Theory).AssemblyInfoInputs.cache
+D:\Практика по C#\Day2\Task3(Theory)\obj\Debug\net6.0\Task3(Theory).AssemblyInfo.cs
+D:\Практика по C#\Day2\Task3(Theory)\obj\Debug\net6.0\Task3(Theory).csproj.CoreCompileInputs.cache
+D:\Практика по C#\Day2\Task3(Theory)\obj\Debug\net6.0\Task3(Theory).dll
+D:\Практика по C#\Day2\Task3(Theory)\obj\Debug\net6.0\refint\Task3(Theory).dll
+D:\Практика по C#\Day2\Task3(Theory)\obj\Debug\net6.0\Task3(Theory).pdb
+D:\Практика по C#\Day2\Task3(Theory)\obj\Debug\net6.0\Task3(Theory).genruntimeconfig.cache
+D:\Практика по C#\Day2\Task3(Theory)\obj\Debug\net6.0\ref\Task3(Theory).dll
