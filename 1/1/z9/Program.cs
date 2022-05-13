@@ -6,14 +6,14 @@ namespace z9
     {
         static void Main(string[] args)
         {
-            int N;
+            double N;
             double A;
             while (true)
             {
                 try
                 {
                     Console.Write("Enter N value: ");
-                    N = int.Parse(Console.ReadLine());
+                    N = double.Parse(Console.ReadLine());
                     Console.Write("Enter A value: ");
                     A = double.Parse(Console.ReadLine());
                     if (!((A <= 5 && A >= -5) || (N <= 10 && N >= 1)))
