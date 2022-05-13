@@ -11,9 +11,9 @@ namespace z5
             {
                 try
                 {
-                    Console.Write("N: ");
+                    Console.Write("Enter N value: ");
                     N = int.Parse(Console.ReadLine());
-                    Console.Write("A: ");
+                    Console.Write("Enter A value: ");
                     A = int.Parse(Console.ReadLine());
                     if (!((A <= 5 && A >= -5) || (N <= 10 && N >= 1)))
                     {
