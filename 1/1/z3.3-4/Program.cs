@@ -13,6 +13,9 @@ namespace z3._3_4
             Console.Write("Result: ");
             for (int i = 0; i < 100; i++)
             {
+                Console.Write($"{n} ");
+                if (n == 1)
+                    break;
                 if (n % 2 == 0)
                 {
                     n /= 2;
@@ -21,9 +24,7 @@ namespace z3._3_4
                 {
                     n = 3 * n + 1;
                 }
-                Console.Write($"{n} ");
-                if (n == 1)
-                    break;
+
 
             }
 
