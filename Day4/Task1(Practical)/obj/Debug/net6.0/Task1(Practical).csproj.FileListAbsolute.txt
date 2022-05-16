@@ -1,0 +1,15 @@
+D:\Практика по C#\Day4\Task1(Practical)\bin\Debug\net6.0\Task1(Practical).exe
+D:\Практика по C#\Day4\Task1(Practical)\bin\Debug\net6.0\Task1(Practical).deps.json
+D:\Практика по C#\Day4\Task1(Practical)\bin\Debug\net6.0\Task1(Practical).runtimeconfig.json
+D:\Практика по C#\Day4\Task1(Practical)\bin\Debug\net6.0\Task1(Practical).dll
+D:\Практика по C#\Day4\Task1(Practical)\bin\Debug\net6.0\Task1(Practical).pdb
+D:\Практика по C#\Day4\Task1(Practical)\obj\Debug\net6.0\Task1(Practical).csproj.AssemblyReference.cache
+D:\Практика по C#\Day4\Task1(Practical)\obj\Debug\net6.0\Task1(Practical).GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика по C#\Day4\Task1(Practical)\obj\Debug\net6.0\Task1(Practical).AssemblyInfoInputs.cache
+D:\Практика по C#\Day4\Task1(Practical)\obj\Debug\net6.0\Task1(Practical).AssemblyInfo.cs
+D:\Практика по C#\Day4\Task1(Practical)\obj\Debug\net6.0\Task1(Practical).csproj.CoreCompileInputs.cache
+D:\Практика по C#\Day4\Task1(Practical)\obj\Debug\net6.0\Task1(Practical).dll
+D:\Практика по C#\Day4\Task1(Practical)\obj\Debug\net6.0\refint\Task1(Practical).dll
+D:\Практика по C#\Day4\Task1(Practical)\obj\Debug\net6.0\Task1(Practical).pdb
+D:\Практика по C#\Day4\Task1(Practical)\obj\Debug\net6.0\Task1(Practical).genruntimeconfig.cache
+D:\Практика по C#\Day4\Task1(Practical)\obj\Debug\net6.0\ref\Task1(Practical).dll
