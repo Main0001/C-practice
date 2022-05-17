@@ -10,23 +10,37 @@ namespace _4_5.Models
     {
         
         private Content _content;
+       
+        public Section[] Sections => GetSections();
          public Ukazatel(Content content)
         {
             _content = content;
         }
-        public Section[] GetSections() 
+        private Section[] GetSections()
         {
-            var words = new Dictionary<string, int[]>();
-            var manyWords = _content.Pages
-                .SelectMany(p => p.Words.Select(w => new { Word = w.ToLower(), p.Number }).ToList())
-                .GroupBy(p => p.Word.ToLower(), p => p.Number)
-                .OrderBy(p => p.Key)
-                .ToList();
+            var words = new List<WordIndex>();
+            var wordsFromPage = _content.Pages.SelectMany(page => page.Words.Select(w => new WordIndex() { Value = w, Index = page.Number }));
+            wordsFromPage.ToList().ForEach(words.Add);
 
-           return manyWords.Select(w => new Section() { Letter = w.Key[0], Words = w.ToDictionary(p => w.Key, p => w.Select(i => i).ToArray()) })
+            var groupWords = words.GroupBy(w => w.Value.ToLower(), w => w.Index)
+           .OrderBy(g => g.Key);
+
+            var groupU = groupWords.GroupBy(g => g.Key[0], g => new { Word = g.Key, Indexes = g.Distinct() });
+
+            return groupU.Select(g=>new Section() {
+                Letter = g.Key,
+                Words = g.ToDictionary(p => p.Word, p => p.Indexes.ToArray()) })
                 .ToArray();
-            
-        }
 
+           
+        }
+        public int[] GetWordIndexes(string word)
+        {
+            return Sections
+                .Where(s => s.Words.ContainsKey(word))
+                .Select(s => s.Words[word])
+                .FirstOrDefault()
+                .ToArray();
+        }
     }
 }
