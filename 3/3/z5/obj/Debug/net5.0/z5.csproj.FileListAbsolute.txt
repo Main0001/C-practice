@@ -1,0 +1,16 @@
+G:\Колледж\Git\C-practice\3\3\z5\bin\Debug\net5.0\z5.exe
+G:\Колледж\Git\C-practice\3\3\z5\bin\Debug\net5.0\z5.deps.json
+G:\Колледж\Git\C-practice\3\3\z5\bin\Debug\net5.0\z5.runtimeconfig.json
+G:\Колледж\Git\C-practice\3\3\z5\bin\Debug\net5.0\z5.runtimeconfig.dev.json
+G:\Колледж\Git\C-practice\3\3\z5\bin\Debug\net5.0\z5.dll
+G:\Колледж\Git\C-practice\3\3\z5\bin\Debug\net5.0\ref\z5.dll
+G:\Колледж\Git\C-practice\3\3\z5\bin\Debug\net5.0\z5.pdb
+G:\Колледж\Git\C-practice\3\3\z5\obj\Debug\net5.0\z5.csproj.AssemblyReference.cache
+G:\Колледж\Git\C-practice\3\3\z5\obj\Debug\net5.0\z5.GeneratedMSBuildEditorConfig.editorconfig
+G:\Колледж\Git\C-practice\3\3\z5\obj\Debug\net5.0\z5.AssemblyInfoInputs.cache
+G:\Колледж\Git\C-practice\3\3\z5\obj\Debug\net5.0\z5.AssemblyInfo.cs
+G:\Колледж\Git\C-practice\3\3\z5\obj\Debug\net5.0\z5.csproj.CoreCompileInputs.cache
+G:\Колледж\Git\C-practice\3\3\z5\obj\Debug\net5.0\z5.dll
+G:\Колледж\Git\C-practice\3\3\z5\obj\Debug\net5.0\ref\z5.dll
+G:\Колледж\Git\C-practice\3\3\z5\obj\Debug\net5.0\z5.pdb
+G:\Колледж\Git\C-practice\3\3\z5\obj\Debug\net5.0\z5.genruntimeconfig.cache
