@@ -4,8 +4,6 @@
     string input = Console.ReadLine();
     int carent = default;
     int max = default;
-    int count = 0;
-    int maxChar = 0;
 
     for (int i = 0; i < input.Length; i++)
     {
