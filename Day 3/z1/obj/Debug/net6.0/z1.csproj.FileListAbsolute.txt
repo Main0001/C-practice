@@ -1,0 +1,15 @@
+D:\Practice\C-practice-mainMaksimG\Day 3\z1\bin\Debug\net6.0\z1.exe
+D:\Practice\C-practice-mainMaksimG\Day 3\z1\bin\Debug\net6.0\z1.deps.json
+D:\Practice\C-practice-mainMaksimG\Day 3\z1\bin\Debug\net6.0\z1.runtimeconfig.json
+D:\Practice\C-practice-mainMaksimG\Day 3\z1\bin\Debug\net6.0\z1.dll
+D:\Practice\C-practice-mainMaksimG\Day 3\z1\bin\Debug\net6.0\z1.pdb
+D:\Practice\C-practice-mainMaksimG\Day 3\z1\obj\Debug\net6.0\z1.csproj.AssemblyReference.cache
+D:\Practice\C-practice-mainMaksimG\Day 3\z1\obj\Debug\net6.0\z1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\C-practice-mainMaksimG\Day 3\z1\obj\Debug\net6.0\z1.AssemblyInfoInputs.cache
+D:\Practice\C-practice-mainMaksimG\Day 3\z1\obj\Debug\net6.0\z1.AssemblyInfo.cs
+D:\Practice\C-practice-mainMaksimG\Day 3\z1\obj\Debug\net6.0\z1.csproj.CoreCompileInputs.cache
+D:\Practice\C-practice-mainMaksimG\Day 3\z1\obj\Debug\net6.0\z1.dll
+D:\Practice\C-practice-mainMaksimG\Day 3\z1\obj\Debug\net6.0\refint\z1.dll
+D:\Practice\C-practice-mainMaksimG\Day 3\z1\obj\Debug\net6.0\z1.pdb
+D:\Practice\C-practice-mainMaksimG\Day 3\z1\obj\Debug\net6.0\z1.genruntimeconfig.cache
+D:\Practice\C-practice-mainMaksimG\Day 3\z1\obj\Debug\net6.0\ref\z1.dll
