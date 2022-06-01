@@ -1,0 +1,12 @@
+G:\Колледж\Git\C-practice\17\17\Animals\bin\Debug\net5.0\Animals.deps.json
+G:\Колледж\Git\C-practice\17\17\Animals\bin\Debug\net5.0\Animals.dll
+G:\Колледж\Git\C-practice\17\17\Animals\bin\Debug\net5.0\ref\Animals.dll
+G:\Колледж\Git\C-practice\17\17\Animals\bin\Debug\net5.0\Animals.pdb
+G:\Колледж\Git\C-practice\17\17\Animals\obj\Debug\net5.0\Animals.csproj.AssemblyReference.cache
+G:\Колледж\Git\C-practice\17\17\Animals\obj\Debug\net5.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+G:\Колледж\Git\C-practice\17\17\Animals\obj\Debug\net5.0\Animals.AssemblyInfoInputs.cache
+G:\Колледж\Git\C-practice\17\17\Animals\obj\Debug\net5.0\Animals.AssemblyInfo.cs
+G:\Колледж\Git\C-practice\17\17\Animals\obj\Debug\net5.0\Animals.csproj.CoreCompileInputs.cache
+G:\Колледж\Git\C-practice\17\17\Animals\obj\Debug\net5.0\Animals.dll
+G:\Колледж\Git\C-practice\17\17\Animals\obj\Debug\net5.0\ref\Animals.dll
+G:\Колледж\Git\C-practice\17\17\Animals\obj\Debug\net5.0\Animals.pdb
