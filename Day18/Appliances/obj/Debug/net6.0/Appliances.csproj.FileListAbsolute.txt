@@ -1,0 +1,12 @@
+D:\Практика по C#\Day18\Appliances\bin\Debug\net6.0\Appliances.deps.json
+D:\Практика по C#\Day18\Appliances\bin\Debug\net6.0\Appliances.dll
+D:\Практика по C#\Day18\Appliances\bin\Debug\net6.0\Appliances.pdb
+D:\Практика по C#\Day18\Appliances\obj\Debug\net6.0\Appliances.csproj.AssemblyReference.cache
+D:\Практика по C#\Day18\Appliances\obj\Debug\net6.0\Appliances.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика по C#\Day18\Appliances\obj\Debug\net6.0\Appliances.AssemblyInfoInputs.cache
+D:\Практика по C#\Day18\Appliances\obj\Debug\net6.0\Appliances.AssemblyInfo.cs
+D:\Практика по C#\Day18\Appliances\obj\Debug\net6.0\Appliances.csproj.CoreCompileInputs.cache
+D:\Практика по C#\Day18\Appliances\obj\Debug\net6.0\Appliances.dll
+D:\Практика по C#\Day18\Appliances\obj\Debug\net6.0\refint\Appliances.dll
+D:\Практика по C#\Day18\Appliances\obj\Debug\net6.0\Appliances.pdb
+D:\Практика по C#\Day18\Appliances\obj\Debug\net6.0\ref\Appliances.dll
