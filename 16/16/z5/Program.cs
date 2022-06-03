@@ -1,10 +1,13 @@
 ﻿using System;
 using System.IO;
 
-namespace z5
+namespace ConsoleApplication3
 {
     class Program
     {
+        /// <summary>
+        /// Print menu.
+        /// </summary>
         static void ShowMenu()
         {
             Console.WriteLine();
@@ -16,6 +19,10 @@ namespace z5
             Console.WriteLine();
         } // ShowMenu()
 
+        /// <summary>
+        /// Display all components of a file less than a given number.
+        /// </summary>
+        /// <param name="fromFile">file</param>
         static void Task1(BinaryReader fromFile) // Вывести на экран все компоненты файла, меньшие заданного числа
         {
             double userNum; // Опорное число
@@ -55,6 +62,10 @@ namespace z5
             // end try 1
         } // Task1()
 
+        /// <summary>
+        /// Display all positive components of a file.
+        /// </summary>
+        /// <param name="fromFile">file</param>
         static void Task2(BinaryReader fromFile) // Вывести на экран все положительные компоненты файла
         {
             double item; // Элемент файла
@@ -78,6 +89,10 @@ namespace z5
             // end try 1
         } // Task2()
 
+        /// <summary>
+        /// Calculate the arithmetic mean of the file components at even positions.
+        /// </summary>
+        /// <param name="fromFile">file</param>
         static void Task3(BinaryReader fromFile) // Вычислить среднее арифметическое компонентов файла, стоящих на чётных позициях
         {
             int i = 0;
