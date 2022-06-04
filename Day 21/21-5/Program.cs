@@ -1,7 +1,7 @@
 ﻿try
 {
     var multV = 1;
-    ParallelLoopResult result = Parallel.ForEach<int>(new List<int>() { 1, 3, 5, 8 }, Mult);
+    ParallelLoopResult result = Parallel.ForEach<int>(new List<int>() { 1, 4, 61, 85 }, Mult);
 
     void Mult(int n, ParallelLoopState pls)
     {
