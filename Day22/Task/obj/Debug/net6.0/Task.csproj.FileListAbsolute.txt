@@ -1,0 +1,15 @@
+D:\Практика по C#\Day22\Task\bin\Debug\net6.0\Task.exe
+D:\Практика по C#\Day22\Task\bin\Debug\net6.0\Task.deps.json
+D:\Практика по C#\Day22\Task\bin\Debug\net6.0\Task.runtimeconfig.json
+D:\Практика по C#\Day22\Task\bin\Debug\net6.0\Task.dll
+D:\Практика по C#\Day22\Task\bin\Debug\net6.0\Task.pdb
+D:\Практика по C#\Day22\Task\obj\Debug\net6.0\Task.csproj.AssemblyReference.cache
+D:\Практика по C#\Day22\Task\obj\Debug\net6.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика по C#\Day22\Task\obj\Debug\net6.0\Task.AssemblyInfoInputs.cache
+D:\Практика по C#\Day22\Task\obj\Debug\net6.0\Task.AssemblyInfo.cs
+D:\Практика по C#\Day22\Task\obj\Debug\net6.0\Task.csproj.CoreCompileInputs.cache
+D:\Практика по C#\Day22\Task\obj\Debug\net6.0\Task.dll
+D:\Практика по C#\Day22\Task\obj\Debug\net6.0\refint\Task.dll
+D:\Практика по C#\Day22\Task\obj\Debug\net6.0\Task.pdb
+D:\Практика по C#\Day22\Task\obj\Debug\net6.0\Task.genruntimeconfig.cache
+D:\Практика по C#\Day22\Task\obj\Debug\net6.0\ref\Task.dll
