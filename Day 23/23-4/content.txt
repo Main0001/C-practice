@@ -1,0 +1,13 @@
+Resume: 
+SalaryTo: 0
+SalaryFrom: 0
+Phone: 
+Mobile: 
+Email: 
+Place: 
+YearBox: 
+Month: 
+Day: 
+Patronymic: 
+Name: 
+Sourname: 
