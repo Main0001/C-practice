@@ -1,0 +1,22 @@
+Resume: 
+Full work: True
+SalaryTo: 2
+SalaryFrom: 1
+D: True
+C: True
+B: True
+A: True
+Vehicle: True
+Driving license: True
+No: True
+Phone: 3343434234
+Mobile: МТС
+Email: @mail
+Place: Барань	
+YearBox: 1909
+Month: Март	
+Day: 12
+Men: True
+Patronymic: afdf
+Name: afdf
+Sourname: dasd

@@ -1,0 +1,17 @@
+D:\Практика по C#\Day23\Task2\bin\Debug\net6.0-windows\Task2.exe
+D:\Практика по C#\Day23\Task2\bin\Debug\net6.0-windows\Task2.deps.json
+D:\Практика по C#\Day23\Task2\bin\Debug\net6.0-windows\Task2.runtimeconfig.json
+D:\Практика по C#\Day23\Task2\bin\Debug\net6.0-windows\Task2.dll
+D:\Практика по C#\Day23\Task2\bin\Debug\net6.0-windows\Task2.pdb
+D:\Практика по C#\Day23\Task2\obj\Debug\net6.0-windows\Task2.csproj.AssemblyReference.cache
+D:\Практика по C#\Day23\Task2\obj\Debug\net6.0-windows\Task2.Form1.resources
+D:\Практика по C#\Day23\Task2\obj\Debug\net6.0-windows\Task2.csproj.GenerateResource.cache
+D:\Практика по C#\Day23\Task2\obj\Debug\net6.0-windows\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика по C#\Day23\Task2\obj\Debug\net6.0-windows\Task2.AssemblyInfoInputs.cache
+D:\Практика по C#\Day23\Task2\obj\Debug\net6.0-windows\Task2.AssemblyInfo.cs
+D:\Практика по C#\Day23\Task2\obj\Debug\net6.0-windows\Task2.csproj.CoreCompileInputs.cache
+D:\Практика по C#\Day23\Task2\obj\Debug\net6.0-windows\Task2.dll
+D:\Практика по C#\Day23\Task2\obj\Debug\net6.0-windows\refint\Task2.dll
+D:\Практика по C#\Day23\Task2\obj\Debug\net6.0-windows\Task2.pdb
+D:\Практика по C#\Day23\Task2\obj\Debug\net6.0-windows\Task2.genruntimeconfig.cache
+D:\Практика по C#\Day23\Task2\obj\Debug\net6.0-windows\ref\Task2.dll
