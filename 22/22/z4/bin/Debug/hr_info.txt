@@ -1,0 +1,20 @@
+HR_Resume: This is shortest resume ever!
+A: True
+Vehicle: True
+Driving license: True
+10 and more years: True
+SalaryTo: 700
+SalaryFrom: 400
+Work at home: True
+Resume: 
+Men: True
+Patronymic: Aleksandrovich
+Name: Aleksey
+Sourname: Leonov
+YearDropBox: 2003
+Month: Август	
+Day: 6
+Email: alekseyleonov888@gmail.com
+Place: Гродно	
+Phone: 337864534
+Mobile: MTS

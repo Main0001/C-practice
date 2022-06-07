@@ -1,0 +1,18 @@
+textBox1: This is my shot resume!
+C: True
+Driving license: True
+No: True
+SalaryTo: 700
+SalaryFrom: 400
+Work at home: True
+Resume: 
+Patronymic: Александрович
+Name: Алексей
+Sourname: Леонов
+YearBox: 2003
+Month: Апрель	
+Day: 7
+Email: alekseyleonov888@gmail.com
+Place: Гродно	
+Phone: 333490927
+Mobile: МТС
