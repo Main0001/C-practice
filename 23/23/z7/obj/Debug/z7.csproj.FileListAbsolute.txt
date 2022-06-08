@@ -1,0 +1,9 @@
+G:\Колледж\Git\C-practice\23\23\z7\bin\Debug\z7.exe.config
+G:\Колледж\Git\C-practice\23\23\z7\bin\Debug\z7.exe
+G:\Колледж\Git\C-practice\23\23\z7\bin\Debug\z7.pdb
+G:\Колледж\Git\C-practice\23\23\z7\obj\Debug\z7.Form1.resources
+G:\Колледж\Git\C-practice\23\23\z7\obj\Debug\z7.Properties.Resources.resources
+G:\Колледж\Git\C-practice\23\23\z7\obj\Debug\z7.csproj.GenerateResource.cache
+G:\Колледж\Git\C-practice\23\23\z7\obj\Debug\z7.csproj.CoreCompileInputs.cache
+G:\Колледж\Git\C-practice\23\23\z7\obj\Debug\z7.exe
+G:\Колледж\Git\C-practice\23\23\z7\obj\Debug\z7.pdb

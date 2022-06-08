@@ -1,0 +1,17 @@
+HR_Resume: ^-^
+SalaryTo: 700
+SalaryFrom: 400
+No expirience: True
+D: True
+Driving license: True
+Work at home: True
+Sourname: Leonov
+Patronymic: A
+Name: A
+YearDropBox: 2000
+Month: Июнь	
+Day: 11
+Email: email@mail.com
+Place: Минск	
+Phone: 375295647812
+Mobile: MTS
