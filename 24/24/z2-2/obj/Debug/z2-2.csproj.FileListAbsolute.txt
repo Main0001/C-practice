@@ -1,0 +1,9 @@
+G:\Колледж\Git\C-practice\24\24\z2-2\bin\Debug\WinButNum.exe.config
+G:\Колледж\Git\C-practice\24\24\z2-2\bin\Debug\WinButNum.exe
+G:\Колледж\Git\C-practice\24\24\z2-2\bin\Debug\WinButNum.pdb
+G:\Колледж\Git\C-practice\24\24\z2-2\obj\Debug\WinButNum.Form1.resources
+G:\Колледж\Git\C-practice\24\24\z2-2\obj\Debug\WinButNum.Properties.Resources.resources
+G:\Колледж\Git\C-practice\24\24\z2-2\obj\Debug\z2-2.csproj.GenerateResource.cache
+G:\Колледж\Git\C-practice\24\24\z2-2\obj\Debug\z2-2.csproj.CoreCompileInputs.cache
+G:\Колледж\Git\C-practice\24\24\z2-2\obj\Debug\WinButNum.exe
+G:\Колледж\Git\C-practice\24\24\z2-2\obj\Debug\WinButNum.pdb

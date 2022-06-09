@@ -1,0 +1,12 @@
+D:\work\Практика\Praktik\Day 25\25-1\obj\Debug\25-1.csproj.AssemblyReference.cache
+D:\work\Практика\Praktik\Day 25\25-1\obj\Debug\25-1.csproj.SuggestedBindingRedirects.cache
+D:\work\Практика\Praktik\Day 25\25-1\obj\Debug\_25_1.Child_Form.resources
+D:\work\Практика\Praktik\Day 25\25-1\obj\Debug\_25_1.Form1.resources
+D:\work\Практика\Praktik\Day 25\25-1\obj\Debug\_25_1.Properties.Resources.resources
+D:\work\Практика\Praktik\Day 25\25-1\obj\Debug\25-1.csproj.GenerateResource.cache
+D:\work\Практика\Praktik\Day 25\25-1\obj\Debug\25-1.csproj.CoreCompileInputs.cache
+D:\work\Практика\Praktik\Day 25\25-1\bin\Debug\25-1.exe.config
+D:\work\Практика\Praktik\Day 25\25-1\bin\Debug\25-1.exe
+D:\work\Практика\Praktik\Day 25\25-1\bin\Debug\25-1.pdb
+D:\work\Практика\Praktik\Day 25\25-1\obj\Debug\25-1.exe
+D:\work\Практика\Praktik\Day 25\25-1\obj\Debug\25-1.pdb

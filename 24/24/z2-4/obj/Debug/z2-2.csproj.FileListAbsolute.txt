@@ -1,0 +1,11 @@
+G:\Колледж\Git\C-practice\24\24\z2-4\bin\Debug\25-2-4.exe.config
+G:\Колледж\Git\C-practice\24\24\z2-4\bin\Debug\25-2-4.exe
+G:\Колледж\Git\C-practice\24\24\z2-4\bin\Debug\25-2-4.pdb
+G:\Колледж\Git\C-practice\24\24\z2-4\obj\Debug\_25_2_4.Form1.resources
+G:\Колледж\Git\C-practice\24\24\z2-4\obj\Debug\_25_2_4.Properties.Resources.resources
+G:\Колледж\Git\C-practice\24\24\z2-4\obj\Debug\_25_2_4.UserControlTimer.resources
+G:\Колледж\Git\C-practice\24\24\z2-4\obj\Debug\z2-2.csproj.GenerateResource.cache
+G:\Колледж\Git\C-practice\24\24\z2-4\obj\Debug\z2-2.csproj.CoreCompileInputs.cache
+G:\Колледж\Git\C-practice\24\24\z2-4\obj\Debug\25-2-4.exe
+G:\Колледж\Git\C-practice\24\24\z2-4\obj\Debug\25-2-4.pdb
+G:\Колледж\Git\C-practice\24\24\z2-4\obj\Debug\z2-2.csproj.AssemblyReference.cache

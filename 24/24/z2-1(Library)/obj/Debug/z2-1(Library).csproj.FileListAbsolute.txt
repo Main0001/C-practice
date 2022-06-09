@@ -1,0 +1,7 @@
+G:\Колледж\Git\C-practice\24\24\z2-1(Library)\bin\Debug\Task2(UserControlLibrary).dll
+G:\Колледж\Git\C-practice\24\24\z2-1(Library)\bin\Debug\Task2(UserControlLibrary).pdb
+G:\Колледж\Git\C-practice\24\24\z2-1(Library)\obj\Debug\Task2_UserControlLibrary_.UserControl1.resources
+G:\Колледж\Git\C-practice\24\24\z2-1(Library)\obj\Debug\z2-1(Library).csproj.GenerateResource.cache
+G:\Колледж\Git\C-practice\24\24\z2-1(Library)\obj\Debug\z2-1(Library).csproj.CoreCompileInputs.cache
+G:\Колледж\Git\C-practice\24\24\z2-1(Library)\obj\Debug\Task2(UserControlLibrary).dll
+G:\Колледж\Git\C-practice\24\24\z2-1(Library)\obj\Debug\Task2(UserControlLibrary).pdb
