@@ -1,0 +1,11 @@
+D:\Практика по C#\Day24\Additonal3\bin\Debug\Additonal3.exe.config
+D:\Практика по C#\Day24\Additonal3\bin\Debug\Additonal3.exe
+D:\Практика по C#\Day24\Additonal3\bin\Debug\Additonal3.pdb
+D:\Практика по C#\Day24\Additonal3\obj\Debug\Additonal3.csproj.AssemblyReference.cache
+D:\Практика по C#\Day24\Additonal3\obj\Debug\Additonal3.csproj.SuggestedBindingRedirects.cache
+D:\Практика по C#\Day24\Additonal3\obj\Debug\Additonal3.Form1.resources
+D:\Практика по C#\Day24\Additonal3\obj\Debug\Additonal3.Properties.Resources.resources
+D:\Практика по C#\Day24\Additonal3\obj\Debug\Additonal3.csproj.GenerateResource.cache
+D:\Практика по C#\Day24\Additonal3\obj\Debug\Additonal3.csproj.CoreCompileInputs.cache
+D:\Практика по C#\Day24\Additonal3\obj\Debug\Additonal3.exe
+D:\Практика по C#\Day24\Additonal3\obj\Debug\Additonal3.pdb

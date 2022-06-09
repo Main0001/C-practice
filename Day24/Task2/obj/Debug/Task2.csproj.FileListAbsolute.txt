@@ -1,0 +1,11 @@
+D:\Практика по C#\Day24\Task2\bin\Debug\Task2.exe.config
+D:\Практика по C#\Day24\Task2\bin\Debug\Task2.exe
+D:\Практика по C#\Day24\Task2\bin\Debug\Task2.pdb
+D:\Практика по C#\Day24\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+D:\Практика по C#\Day24\Task2\obj\Debug\Task2.csproj.SuggestedBindingRedirects.cache
+D:\Практика по C#\Day24\Task2\obj\Debug\Task2.Form1.resources
+D:\Практика по C#\Day24\Task2\obj\Debug\Task2.Properties.Resources.resources
+D:\Практика по C#\Day24\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+D:\Практика по C#\Day24\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+D:\Практика по C#\Day24\Task2\obj\Debug\Task2.exe
+D:\Практика по C#\Day24\Task2\obj\Debug\Task2.pdb
