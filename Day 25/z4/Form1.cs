@@ -6,9 +6,9 @@ using System.Globalization;
 
 namespace z4
 {
-    public partial class Form1 : Form
+    public partial class Form2 : Form
     {
-        public Form1()
+        public Form2()
         {
             Localizer.LocaleChanged += Localizer_LocaleChanged;
             Thread.CurrentThread.CurrentUICulture = Thread.CurrentThread.CurrentCulture;
@@ -141,7 +141,7 @@ namespace z4
 
         private void button7_Click(object sender, EventArgs e)
         {
-            Help.ShowHelp(this, helpProvider1.HelpNamespace);
+            Help.ShowHelp(this, @"Help.docx");
         }
 
         private void radioButton3_CheckedChanged(object sender, EventArgs e)

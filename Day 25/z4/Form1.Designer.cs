@@ -1,7 +1,7 @@
 ﻿
 namespace z4
 {
-    partial class Form1
+    partial class Form2
     {
         /// <summary>
         /// Обязательная переменная конструктора.
@@ -30,7 +30,7 @@ namespace z4
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form2));
             this.label12 = new System.Windows.Forms.Label();
             this.radioButton9 = new System.Windows.Forms.RadioButton();
             this.radioButton10 = new System.Windows.Forms.RadioButton();
@@ -88,11 +88,11 @@ namespace z4
             this.label9 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.Email = new System.Windows.Forms.TextBox();
-            this.helpProvider1 = new System.Windows.Forms.HelpProvider();
             this.button7 = new System.Windows.Forms.Button();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
+            this.helpProvider1 = new System.Windows.Forms.HelpProvider();
             this.groupBox4.SuspendLayout();
             this.groupBox6.SuspendLayout();
             this.groupBox5.SuspendLayout();
@@ -113,7 +113,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.label12, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("label12.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.label12, resources.GetString("label12.HelpString"));
             this.label12.Name = "label12";
-            this.helpProvider1.SetShowHelp(this.label12, ((bool)(resources.GetObject("label12.ShowHelp"))));
             this.toolTip1.SetToolTip(this.label12, resources.GetString("label12.ToolTip"));
             // 
             // radioButton9
@@ -124,7 +123,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.radioButton9, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("radioButton9.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.radioButton9, resources.GetString("radioButton9.HelpString"));
             this.radioButton9.Name = "radioButton9";
-            this.helpProvider1.SetShowHelp(this.radioButton9, ((bool)(resources.GetObject("radioButton9.ShowHelp"))));
             this.radioButton9.TabStop = true;
             this.toolTip1.SetToolTip(this.radioButton9, resources.GetString("radioButton9.ToolTip"));
             this.radioButton9.UseVisualStyleBackColor = true;
@@ -137,7 +135,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.radioButton10, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("radioButton10.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.radioButton10, resources.GetString("radioButton10.HelpString"));
             this.radioButton10.Name = "radioButton10";
-            this.helpProvider1.SetShowHelp(this.radioButton10, ((bool)(resources.GetObject("radioButton10.ShowHelp"))));
             this.radioButton10.TabStop = true;
             this.toolTip1.SetToolTip(this.radioButton10, resources.GetString("radioButton10.ToolTip"));
             this.radioButton10.UseVisualStyleBackColor = true;
@@ -150,7 +147,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.radioButton11, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("radioButton11.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.radioButton11, resources.GetString("radioButton11.HelpString"));
             this.radioButton11.Name = "radioButton11";
-            this.helpProvider1.SetShowHelp(this.radioButton11, ((bool)(resources.GetObject("radioButton11.ShowHelp"))));
             this.radioButton11.TabStop = true;
             this.toolTip1.SetToolTip(this.radioButton11, resources.GetString("radioButton11.ToolTip"));
             this.radioButton11.UseVisualStyleBackColor = true;
@@ -162,7 +158,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.HR_Resume, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("HR_Resume.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.HR_Resume, resources.GetString("HR_Resume.HelpString"));
             this.HR_Resume.Name = "HR_Resume";
-            this.helpProvider1.SetShowHelp(this.HR_Resume, ((bool)(resources.GetObject("HR_Resume.ShowHelp"))));
             this.toolTip1.SetToolTip(this.HR_Resume, resources.GetString("HR_Resume.ToolTip"));
             // 
             // radioButton3
@@ -173,7 +168,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.radioButton3, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("radioButton3.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.radioButton3, resources.GetString("radioButton3.HelpString"));
             this.radioButton3.Name = "radioButton3";
-            this.helpProvider1.SetShowHelp(this.radioButton3, ((bool)(resources.GetObject("radioButton3.ShowHelp"))));
             this.radioButton3.TabStop = true;
             this.toolTip1.SetToolTip(this.radioButton3, resources.GetString("radioButton3.ToolTip"));
             this.radioButton3.UseVisualStyleBackColor = true;
@@ -187,7 +181,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.radioButton2, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("radioButton2.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.radioButton2, resources.GetString("radioButton2.HelpString"));
             this.radioButton2.Name = "radioButton2";
-            this.helpProvider1.SetShowHelp(this.radioButton2, ((bool)(resources.GetObject("radioButton2.ShowHelp"))));
             this.radioButton2.TabStop = true;
             this.toolTip1.SetToolTip(this.radioButton2, resources.GetString("radioButton2.ToolTip"));
             this.radioButton2.UseVisualStyleBackColor = true;
@@ -200,7 +193,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.radioButton1, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("radioButton1.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.radioButton1, resources.GetString("radioButton1.HelpString"));
             this.radioButton1.Name = "radioButton1";
-            this.helpProvider1.SetShowHelp(this.radioButton1, ((bool)(resources.GetObject("radioButton1.ShowHelp"))));
             this.radioButton1.TabStop = true;
             this.toolTip1.SetToolTip(this.radioButton1, resources.GetString("radioButton1.ToolTip"));
             this.radioButton1.UseVisualStyleBackColor = true;
@@ -213,7 +205,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.radioButton12, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("radioButton12.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.radioButton12, resources.GetString("radioButton12.HelpString"));
             this.radioButton12.Name = "radioButton12";
-            this.helpProvider1.SetShowHelp(this.radioButton12, ((bool)(resources.GetObject("radioButton12.ShowHelp"))));
             this.radioButton12.TabStop = true;
             this.toolTip1.SetToolTip(this.radioButton12, resources.GetString("radioButton12.ToolTip"));
             this.radioButton12.UseVisualStyleBackColor = true;
@@ -258,7 +249,6 @@ namespace z4
             resources.GetString("YearDropBox.Items29"),
             resources.GetString("YearDropBox.Items30")});
             this.YearDropBox.Name = "YearDropBox";
-            this.helpProvider1.SetShowHelp(this.YearDropBox, ((bool)(resources.GetObject("YearDropBox.ShowHelp"))));
             this.toolTip1.SetToolTip(this.YearDropBox, resources.GetString("YearDropBox.ToolTip"));
             // 
             // Month
@@ -282,7 +272,6 @@ namespace z4
             resources.GetString("Month.Items10"),
             resources.GetString("Month.Items11")});
             this.Month.Name = "Month";
-            this.helpProvider1.SetShowHelp(this.Month, ((bool)(resources.GetObject("Month.ShowHelp"))));
             this.toolTip1.SetToolTip(this.Month, resources.GetString("Month.ToolTip"));
             // 
             // label5
@@ -293,7 +282,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.label5, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("label5.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.label5, resources.GetString("label5.HelpString"));
             this.label5.Name = "label5";
-            this.helpProvider1.SetShowHelp(this.label5, ((bool)(resources.GetObject("label5.ShowHelp"))));
             this.toolTip1.SetToolTip(this.label5, resources.GetString("label5.ToolTip"));
             // 
             // Day
@@ -336,7 +324,6 @@ namespace z4
             resources.GetString("Day.Items29"),
             resources.GetString("Day.Items30")});
             this.Day.Name = "Day";
-            this.helpProvider1.SetShowHelp(this.Day, ((bool)(resources.GetObject("Day.ShowHelp"))));
             this.toolTip1.SetToolTip(this.Day, resources.GetString("Day.ToolTip"));
             // 
             // label4
@@ -347,7 +334,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.label4, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("label4.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.label4, resources.GetString("label4.HelpString"));
             this.label4.Name = "label4";
-            this.helpProvider1.SetShowHelp(this.label4, ((bool)(resources.GetObject("label4.ShowHelp"))));
             this.toolTip1.SetToolTip(this.label4, resources.GetString("label4.ToolTip"));
             // 
             // button4
@@ -357,7 +343,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.button4, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("button4.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.button4, resources.GetString("button4.HelpString"));
             this.button4.Name = "button4";
-            this.helpProvider1.SetShowHelp(this.button4, ((bool)(resources.GetObject("button4.ShowHelp"))));
             this.toolTip1.SetToolTip(this.button4, resources.GetString("button4.ToolTip"));
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
@@ -369,7 +354,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.button5, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("button5.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.button5, resources.GetString("button5.HelpString"));
             this.button5.Name = "button5";
-            this.helpProvider1.SetShowHelp(this.button5, ((bool)(resources.GetObject("button5.ShowHelp"))));
             this.toolTip1.SetToolTip(this.button5, resources.GetString("button5.ToolTip"));
             this.button5.UseVisualStyleBackColor = true;
             this.button5.Click += new System.EventHandler(this.button5_Click);
@@ -381,7 +365,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.button6, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("button6.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.button6, resources.GetString("button6.HelpString"));
             this.button6.Name = "button6";
-            this.helpProvider1.SetShowHelp(this.button6, ((bool)(resources.GetObject("button6.ShowHelp"))));
             this.toolTip1.SetToolTip(this.button6, resources.GetString("button6.ToolTip"));
             this.button6.UseVisualStyleBackColor = true;
             this.button6.Click += new System.EventHandler(this.button6_Click);
@@ -394,7 +377,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.label6, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("label6.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.label6, resources.GetString("label6.HelpString"));
             this.label6.Name = "label6";
-            this.helpProvider1.SetShowHelp(this.label6, ((bool)(resources.GetObject("label6.ShowHelp"))));
             this.toolTip1.SetToolTip(this.label6, resources.GetString("label6.ToolTip"));
             // 
             // label13
@@ -405,7 +387,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.label13, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("label13.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.label13, resources.GetString("label13.HelpString"));
             this.label13.Name = "label13";
-            this.helpProvider1.SetShowHelp(this.label13, ((bool)(resources.GetObject("label13.ShowHelp"))));
             this.toolTip1.SetToolTip(this.label13, resources.GetString("label13.ToolTip"));
             // 
             // groupBox4
@@ -421,7 +402,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.groupBox4, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("groupBox4.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.groupBox4, resources.GetString("groupBox4.HelpString"));
             this.groupBox4.Name = "groupBox4";
-            this.helpProvider1.SetShowHelp(this.groupBox4, ((bool)(resources.GetObject("groupBox4.ShowHelp"))));
             this.groupBox4.TabStop = false;
             this.toolTip1.SetToolTip(this.groupBox4, resources.GetString("groupBox4.ToolTip"));
             // 
@@ -432,7 +412,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.checkBox6, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("checkBox6.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.checkBox6, resources.GetString("checkBox6.HelpString"));
             this.checkBox6.Name = "checkBox6";
-            this.helpProvider1.SetShowHelp(this.checkBox6, ((bool)(resources.GetObject("checkBox6.ShowHelp"))));
             this.toolTip1.SetToolTip(this.checkBox6, resources.GetString("checkBox6.ToolTip"));
             this.checkBox6.UseVisualStyleBackColor = true;
             // 
@@ -443,7 +422,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.checkBox5, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("checkBox5.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.checkBox5, resources.GetString("checkBox5.HelpString"));
             this.checkBox5.Name = "checkBox5";
-            this.helpProvider1.SetShowHelp(this.checkBox5, ((bool)(resources.GetObject("checkBox5.ShowHelp"))));
             this.toolTip1.SetToolTip(this.checkBox5, resources.GetString("checkBox5.ToolTip"));
             this.checkBox5.UseVisualStyleBackColor = true;
             // 
@@ -454,7 +432,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.checkBox4, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("checkBox4.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.checkBox4, resources.GetString("checkBox4.HelpString"));
             this.checkBox4.Name = "checkBox4";
-            this.helpProvider1.SetShowHelp(this.checkBox4, ((bool)(resources.GetObject("checkBox4.ShowHelp"))));
             this.toolTip1.SetToolTip(this.checkBox4, resources.GetString("checkBox4.ToolTip"));
             this.checkBox4.UseVisualStyleBackColor = true;
             // 
@@ -465,7 +442,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.checkBox3, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("checkBox3.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.checkBox3, resources.GetString("checkBox3.HelpString"));
             this.checkBox3.Name = "checkBox3";
-            this.helpProvider1.SetShowHelp(this.checkBox3, ((bool)(resources.GetObject("checkBox3.ShowHelp"))));
             this.toolTip1.SetToolTip(this.checkBox3, resources.GetString("checkBox3.ToolTip"));
             this.checkBox3.UseVisualStyleBackColor = true;
             // 
@@ -476,7 +452,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.checkBox2, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("checkBox2.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.checkBox2, resources.GetString("checkBox2.HelpString"));
             this.checkBox2.Name = "checkBox2";
-            this.helpProvider1.SetShowHelp(this.checkBox2, ((bool)(resources.GetObject("checkBox2.ShowHelp"))));
             this.toolTip1.SetToolTip(this.checkBox2, resources.GetString("checkBox2.ToolTip"));
             this.checkBox2.UseVisualStyleBackColor = true;
             // 
@@ -487,7 +462,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.checkBox1, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("checkBox1.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.checkBox1, resources.GetString("checkBox1.HelpString"));
             this.checkBox1.Name = "checkBox1";
-            this.helpProvider1.SetShowHelp(this.checkBox1, ((bool)(resources.GetObject("checkBox1.ShowHelp"))));
             this.toolTip1.SetToolTip(this.checkBox1, resources.GetString("checkBox1.ToolTip"));
             this.checkBox1.UseVisualStyleBackColor = true;
             // 
@@ -498,7 +472,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.button2, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("button2.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.button2, resources.GetString("button2.HelpString"));
             this.button2.Name = "button2";
-            this.helpProvider1.SetShowHelp(this.button2, ((bool)(resources.GetObject("button2.ShowHelp"))));
             this.toolTip1.SetToolTip(this.button2, resources.GetString("button2.ToolTip"));
             this.button2.UseVisualStyleBackColor = true;
             // 
@@ -514,7 +487,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.groupBox6, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("groupBox6.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.groupBox6, resources.GetString("groupBox6.HelpString"));
             this.groupBox6.Name = "groupBox6";
-            this.helpProvider1.SetShowHelp(this.groupBox6, ((bool)(resources.GetObject("groupBox6.ShowHelp"))));
             this.groupBox6.TabStop = false;
             this.toolTip1.SetToolTip(this.groupBox6, resources.GetString("groupBox6.ToolTip"));
             // 
@@ -532,7 +504,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.groupBox5, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("groupBox5.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.groupBox5, resources.GetString("groupBox5.HelpString"));
             this.groupBox5.Name = "groupBox5";
-            this.helpProvider1.SetShowHelp(this.groupBox5, ((bool)(resources.GetObject("groupBox5.ShowHelp"))));
             this.groupBox5.TabStop = false;
             this.toolTip1.SetToolTip(this.groupBox5, resources.GetString("groupBox5.ToolTip"));
             // 
@@ -544,7 +515,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.label15, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("label15.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.label15, resources.GetString("label15.HelpString"));
             this.label15.Name = "label15";
-            this.helpProvider1.SetShowHelp(this.label15, ((bool)(resources.GetObject("label15.ShowHelp"))));
             this.toolTip1.SetToolTip(this.label15, resources.GetString("label15.ToolTip"));
             // 
             // label14
@@ -555,7 +525,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.label14, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("label14.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.label14, resources.GetString("label14.HelpString"));
             this.label14.Name = "label14";
-            this.helpProvider1.SetShowHelp(this.label14, ((bool)(resources.GetObject("label14.ShowHelp"))));
             this.toolTip1.SetToolTip(this.label14, resources.GetString("label14.ToolTip"));
             // 
             // SalaryTo
@@ -570,7 +539,6 @@ namespace z4
             0,
             0});
             this.SalaryTo.Name = "SalaryTo";
-            this.helpProvider1.SetShowHelp(this.SalaryTo, ((bool)(resources.GetObject("SalaryTo.ShowHelp"))));
             this.toolTip1.SetToolTip(this.SalaryTo, resources.GetString("SalaryTo.ToolTip"));
             // 
             // label10
@@ -581,7 +549,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.label10, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("label10.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.label10, resources.GetString("label10.HelpString"));
             this.label10.Name = "label10";
-            this.helpProvider1.SetShowHelp(this.label10, ((bool)(resources.GetObject("label10.ShowHelp"))));
             this.toolTip1.SetToolTip(this.label10, resources.GetString("label10.ToolTip"));
             // 
             // SalaryFrom
@@ -596,7 +563,6 @@ namespace z4
             0,
             0});
             this.SalaryFrom.Name = "SalaryFrom";
-            this.helpProvider1.SetShowHelp(this.SalaryFrom, ((bool)(resources.GetObject("SalaryFrom.ShowHelp"))));
             this.toolTip1.SetToolTip(this.SalaryFrom, resources.GetString("SalaryFrom.ToolTip"));
             // 
             // button1
@@ -606,7 +572,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.button1, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("button1.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.button1, resources.GetString("button1.HelpString"));
             this.button1.Name = "button1";
-            this.helpProvider1.SetShowHelp(this.button1, ((bool)(resources.GetObject("button1.ShowHelp"))));
             this.toolTip1.SetToolTip(this.button1, resources.GetString("button1.ToolTip"));
             this.button1.UseVisualStyleBackColor = true;
             // 
@@ -623,7 +588,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.groupBox3, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("groupBox3.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.groupBox3, resources.GetString("groupBox3.HelpString"));
             this.groupBox3.Name = "groupBox3";
-            this.helpProvider1.SetShowHelp(this.groupBox3, ((bool)(resources.GetObject("groupBox3.ShowHelp"))));
             this.groupBox3.TabStop = false;
             this.toolTip1.SetToolTip(this.groupBox3, resources.GetString("groupBox3.ToolTip"));
             // 
@@ -635,7 +599,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.radioButton8, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("radioButton8.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.radioButton8, resources.GetString("radioButton8.HelpString"));
             this.radioButton8.Name = "radioButton8";
-            this.helpProvider1.SetShowHelp(this.radioButton8, ((bool)(resources.GetObject("radioButton8.ShowHelp"))));
             this.radioButton8.TabStop = true;
             this.toolTip1.SetToolTip(this.radioButton8, resources.GetString("radioButton8.ToolTip"));
             this.radioButton8.UseVisualStyleBackColor = true;
@@ -648,7 +611,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.radioButton7, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("radioButton7.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.radioButton7, resources.GetString("radioButton7.HelpString"));
             this.radioButton7.Name = "radioButton7";
-            this.helpProvider1.SetShowHelp(this.radioButton7, ((bool)(resources.GetObject("radioButton7.ShowHelp"))));
             this.radioButton7.TabStop = true;
             this.toolTip1.SetToolTip(this.radioButton7, resources.GetString("radioButton7.ToolTip"));
             this.radioButton7.UseVisualStyleBackColor = true;
@@ -661,7 +623,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.radioButton4, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("radioButton4.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.radioButton4, resources.GetString("radioButton4.HelpString"));
             this.radioButton4.Name = "radioButton4";
-            this.helpProvider1.SetShowHelp(this.radioButton4, ((bool)(resources.GetObject("radioButton4.ShowHelp"))));
             this.radioButton4.TabStop = true;
             this.toolTip1.SetToolTip(this.radioButton4, resources.GetString("radioButton4.ToolTip"));
             this.radioButton4.UseVisualStyleBackColor = true;
@@ -674,7 +635,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.radioButton5, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("radioButton5.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.radioButton5, resources.GetString("radioButton5.HelpString"));
             this.radioButton5.Name = "radioButton5";
-            this.helpProvider1.SetShowHelp(this.radioButton5, ((bool)(resources.GetObject("radioButton5.ShowHelp"))));
             this.radioButton5.TabStop = true;
             this.toolTip1.SetToolTip(this.radioButton5, resources.GetString("radioButton5.ToolTip"));
             this.radioButton5.UseVisualStyleBackColor = true;
@@ -687,7 +647,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.radioButton6, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("radioButton6.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.radioButton6, resources.GetString("radioButton6.HelpString"));
             this.radioButton6.Name = "radioButton6";
-            this.helpProvider1.SetShowHelp(this.radioButton6, ((bool)(resources.GetObject("radioButton6.ShowHelp"))));
             this.radioButton6.TabStop = true;
             this.toolTip1.SetToolTip(this.radioButton6, resources.GetString("radioButton6.ToolTip"));
             this.radioButton6.UseVisualStyleBackColor = true;
@@ -699,7 +658,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.button3, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("button3.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.button3, resources.GetString("button3.HelpString"));
             this.button3.Name = "button3";
-            this.helpProvider1.SetShowHelp(this.button3, ((bool)(resources.GetObject("button3.ShowHelp"))));
             this.toolTip1.SetToolTip(this.button3, resources.GetString("button3.ToolTip"));
             this.button3.UseVisualStyleBackColor = true;
             // 
@@ -710,7 +668,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.Name, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("Name.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.Name, resources.GetString("Name.HelpString"));
             this.Name.Name = "Name";
-            this.helpProvider1.SetShowHelp(this.Name, ((bool)(resources.GetObject("Name.ShowHelp"))));
             this.toolTip1.SetToolTip(this.Name, resources.GetString("Name.ToolTip"));
             // 
             // label3
@@ -721,7 +678,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.label3, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("label3.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.label3, resources.GetString("label3.HelpString"));
             this.label3.Name = "label3";
-            this.helpProvider1.SetShowHelp(this.label3, ((bool)(resources.GetObject("label3.ShowHelp"))));
             this.toolTip1.SetToolTip(this.label3, resources.GetString("label3.ToolTip"));
             // 
             // label2
@@ -732,7 +688,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.label2, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("label2.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.label2, resources.GetString("label2.HelpString"));
             this.label2.Name = "label2";
-            this.helpProvider1.SetShowHelp(this.label2, ((bool)(resources.GetObject("label2.ShowHelp"))));
             this.toolTip1.SetToolTip(this.label2, resources.GetString("label2.ToolTip"));
             // 
             // Patronymic
@@ -742,7 +697,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.Patronymic, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("Patronymic.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.Patronymic, resources.GetString("Patronymic.HelpString"));
             this.Patronymic.Name = "Patronymic";
-            this.helpProvider1.SetShowHelp(this.Patronymic, ((bool)(resources.GetObject("Patronymic.ShowHelp"))));
             this.toolTip1.SetToolTip(this.Patronymic, resources.GetString("Patronymic.ToolTip"));
             // 
             // groupBox1
@@ -756,7 +710,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.groupBox1, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("groupBox1.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.groupBox1, resources.GetString("groupBox1.HelpString"));
             this.groupBox1.Name = "groupBox1";
-            this.helpProvider1.SetShowHelp(this.groupBox1, ((bool)(resources.GetObject("groupBox1.ShowHelp"))));
             this.groupBox1.TabStop = false;
             this.toolTip1.SetToolTip(this.groupBox1, resources.GetString("groupBox1.ToolTip"));
             // 
@@ -767,7 +720,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.Sourname, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("Sourname.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.Sourname, resources.GetString("Sourname.HelpString"));
             this.Sourname.Name = "Sourname";
-            this.helpProvider1.SetShowHelp(this.Sourname, ((bool)(resources.GetObject("Sourname.ShowHelp"))));
             this.toolTip1.SetToolTip(this.Sourname, resources.GetString("Sourname.ToolTip"));
             // 
             // label1
@@ -778,7 +730,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.label1, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("label1.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.label1, resources.GetString("label1.HelpString"));
             this.label1.Name = "label1";
-            this.helpProvider1.SetShowHelp(this.label1, ((bool)(resources.GetObject("label1.ShowHelp"))));
             this.toolTip1.SetToolTip(this.label1, resources.GetString("label1.ToolTip"));
             // 
             // label8
@@ -789,7 +740,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.label8, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("label8.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.label8, resources.GetString("label8.HelpString"));
             this.label8.Name = "label8";
-            this.helpProvider1.SetShowHelp(this.label8, ((bool)(resources.GetObject("label8.ShowHelp"))));
             this.toolTip1.SetToolTip(this.label8, resources.GetString("label8.ToolTip"));
             // 
             // Place
@@ -914,7 +864,6 @@ namespace z4
             resources.GetString("Place.Items111"),
             resources.GetString("Place.Items112")});
             this.Place.Name = "Place";
-            this.helpProvider1.SetShowHelp(this.Place, ((bool)(resources.GetObject("Place.ShowHelp"))));
             this.toolTip1.SetToolTip(this.Place, resources.GetString("Place.ToolTip"));
             // 
             // label7
@@ -925,7 +874,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.label7, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("label7.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.label7, resources.GetString("label7.HelpString"));
             this.label7.Name = "label7";
-            this.helpProvider1.SetShowHelp(this.label7, ((bool)(resources.GetObject("label7.ShowHelp"))));
             this.toolTip1.SetToolTip(this.label7, resources.GetString("label7.ToolTip"));
             // 
             // Phone
@@ -935,7 +883,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.Phone, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("Phone.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.Phone, resources.GetString("Phone.HelpString"));
             this.Phone.Name = "Phone";
-            this.helpProvider1.SetShowHelp(this.Phone, ((bool)(resources.GetObject("Phone.ShowHelp"))));
             this.toolTip1.SetToolTip(this.Phone, resources.GetString("Phone.ToolTip"));
             // 
             // Mobile
@@ -951,7 +898,6 @@ namespace z4
             resources.GetString("Mobile.Items2"),
             resources.GetString("Mobile.Items3")});
             this.Mobile.Name = "Mobile";
-            this.helpProvider1.SetShowHelp(this.Mobile, ((bool)(resources.GetObject("Mobile.ShowHelp"))));
             this.toolTip1.SetToolTip(this.Mobile, resources.GetString("Mobile.ToolTip"));
             // 
             // label9
@@ -962,7 +908,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.label9, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("label9.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.label9, resources.GetString("label9.HelpString"));
             this.label9.Name = "label9";
-            this.helpProvider1.SetShowHelp(this.label9, ((bool)(resources.GetObject("label9.ShowHelp"))));
             this.toolTip1.SetToolTip(this.label9, resources.GetString("label9.ToolTip"));
             // 
             // groupBox2
@@ -979,7 +924,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.groupBox2, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("groupBox2.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.groupBox2, resources.GetString("groupBox2.HelpString"));
             this.groupBox2.Name = "groupBox2";
-            this.helpProvider1.SetShowHelp(this.groupBox2, ((bool)(resources.GetObject("groupBox2.ShowHelp"))));
             this.groupBox2.TabStop = false;
             this.toolTip1.SetToolTip(this.groupBox2, resources.GetString("groupBox2.ToolTip"));
             // 
@@ -990,12 +934,7 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.Email, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("Email.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.Email, resources.GetString("Email.HelpString"));
             this.Email.Name = "Email";
-            this.helpProvider1.SetShowHelp(this.Email, ((bool)(resources.GetObject("Email.ShowHelp"))));
             this.toolTip1.SetToolTip(this.Email, resources.GetString("Email.ToolTip"));
-            // 
-            // helpProvider1
-            // 
-            resources.ApplyResources(this.helpProvider1, "helpProvider1");
             // 
             // button7
             // 
@@ -1005,7 +944,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.button7, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("button7.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.button7, resources.GetString("button7.HelpString"));
             this.button7.Name = "button7";
-            this.helpProvider1.SetShowHelp(this.button7, ((bool)(resources.GetObject("button7.ShowHelp"))));
             this.toolTip1.SetToolTip(this.button7, resources.GetString("button7.ToolTip"));
             this.button7.UseVisualStyleBackColor = true;
             this.button7.Click += new System.EventHandler(this.button7_Click);
@@ -1017,7 +955,6 @@ namespace z4
             this.helpProvider1.SetHelpNavigator(this.pictureBox2, ((System.Windows.Forms.HelpNavigator)(resources.GetObject("pictureBox2.HelpNavigator"))));
             this.helpProvider1.SetHelpString(this.pictureBox2, resources.GetString("pictureBox2.HelpString"));
             this.pictureBox2.Name = "pictureBox2";
-            this.helpProvider1.SetShowHelp(this.pictureBox2, ((bool)(resources.GetObject("pictureBox2.ShowHelp"))));
             this.pictureBox2.TabStop = false;
             this.toolTip1.SetToolTip(this.pictureBox2, resources.GetString("pictureBox2.ToolTip"));
             this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
@@ -1033,7 +970,11 @@ namespace z4
             this.toolTip1.SetToolTip(this.pictureBox1, resources.GetString("pictureBox1.ToolTip"));
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
-            // Form1
+            // helpProvider1
+            // 
+            resources.ApplyResources(this.helpProvider1, "helpProvider1");
+            // 
+            // Form2
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -1074,7 +1015,6 @@ namespace z4
             this.helpProvider1.SetHelpString(this, resources.GetString("$this.HelpString"));
             this.MaximizeBox = false;
             this.MinimizeBox = false;
-            this.helpProvider1.SetShowHelp(this, ((bool)(resources.GetObject("$this.ShowHelp"))));
             this.toolTip1.SetToolTip(this, resources.GetString("$this.ToolTip"));
             this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox4.ResumeLayout(false);
@@ -1156,11 +1096,11 @@ namespace z4
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.TextBox Email;
-        private System.Windows.Forms.HelpProvider helpProvider1;
         private System.Windows.Forms.Button button7;
         private System.Windows.Forms.ToolTip toolTip1;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.PictureBox pictureBox2;
+        public System.Windows.Forms.HelpProvider helpProvider1;
     }
 }
 
