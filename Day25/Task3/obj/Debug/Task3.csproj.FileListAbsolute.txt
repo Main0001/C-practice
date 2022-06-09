@@ -1,0 +1,12 @@
+D:\Практика по C#\Day25\Task3\bin\Debug\Task3.exe.config
+D:\Практика по C#\Day25\Task3\bin\Debug\Task3.exe
+D:\Практика по C#\Day25\Task3\bin\Debug\Task3.pdb
+D:\Практика по C#\Day25\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+D:\Практика по C#\Day25\Task3\obj\Debug\Task3.csproj.SuggestedBindingRedirects.cache
+D:\Практика по C#\Day25\Task3\obj\Debug\Task3.Properties.Resources.resources
+D:\Практика по C#\Day25\Task3\obj\Debug\Task3.UserControlPrinter.resources
+D:\Практика по C#\Day25\Task3\obj\Debug\Task3.csproj.GenerateResource.cache
+D:\Практика по C#\Day25\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\Практика по C#\Day25\Task3\obj\Debug\Task3.exe
+D:\Практика по C#\Day25\Task3\obj\Debug\Task3.pdb
+D:\Практика по C#\Day25\Task3\obj\Debug\Task3.Form1.resources

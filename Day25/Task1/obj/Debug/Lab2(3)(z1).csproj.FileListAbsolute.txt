@@ -1,0 +1,12 @@
+D:\Git projects\C-practice\day25\Task\Lab2(3)(z1)\bin\Debug\Lab2(3)(z1).exe.config
+D:\Git projects\C-practice\day25\Task\Lab2(3)(z1)\bin\Debug\Lab2(3)(z1).exe
+D:\Git projects\C-practice\day25\Task\Lab2(3)(z1)\bin\Debug\Lab2(3)(z1).pdb
+D:\Git projects\C-practice\day25\Task\Lab2(3)(z1)\obj\Debug\Lab2(3)(z1).csproj.AssemblyReference.cache
+D:\Git projects\C-practice\day25\Task\Lab2(3)(z1)\obj\Debug\Lab2(3)(z1).csproj.SuggestedBindingRedirects.cache
+D:\Git projects\C-practice\day25\Task\Lab2(3)(z1)\obj\Debug\Lab2_3__z1_.Form1.resources
+D:\Git projects\C-practice\day25\Task\Lab2(3)(z1)\obj\Debug\Lab2_3__z1_.Properties.Resources.resources
+D:\Git projects\C-practice\day25\Task\Lab2(3)(z1)\obj\Debug\Lab2(3)(z1).csproj.GenerateResource.cache
+D:\Git projects\C-practice\day25\Task\Lab2(3)(z1)\obj\Debug\Lab2(3)(z1).csproj.CoreCompileInputs.cache
+D:\Git projects\C-practice\day25\Task\Lab2(3)(z1)\obj\Debug\Lab2(3)(z1).exe
+D:\Git projects\C-practice\day25\Task\Lab2(3)(z1)\obj\Debug\Lab2(3)(z1).pdb
+D:\Git projects\C-practice\day25\Task\Lab2(3)(z1)\obj\Debug\Lab2_3__z1_.Child_Form.resources

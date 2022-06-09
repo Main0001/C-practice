@@ -1,0 +1,8 @@
+D:\Практика по C#\Day25\Task2(UserControlLibrary)\bin\Debug\Task2(UserControlLibrary).dll
+D:\Практика по C#\Day25\Task2(UserControlLibrary)\bin\Debug\Task2(UserControlLibrary).pdb
+D:\Практика по C#\Day25\Task2(UserControlLibrary)\obj\Debug\Task2(UserControlLibrary).csproj.AssemblyReference.cache
+D:\Практика по C#\Day25\Task2(UserControlLibrary)\obj\Debug\Task2_UserControlLibrary_.UserControl1.resources
+D:\Практика по C#\Day25\Task2(UserControlLibrary)\obj\Debug\Task2(UserControlLibrary).csproj.GenerateResource.cache
+D:\Практика по C#\Day25\Task2(UserControlLibrary)\obj\Debug\Task2(UserControlLibrary).csproj.CoreCompileInputs.cache
+D:\Практика по C#\Day25\Task2(UserControlLibrary)\obj\Debug\Task2(UserControlLibrary).dll
+D:\Практика по C#\Day25\Task2(UserControlLibrary)\obj\Debug\Task2(UserControlLibrary).pdb

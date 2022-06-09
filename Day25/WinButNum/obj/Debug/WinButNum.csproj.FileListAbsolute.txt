@@ -1,0 +1,11 @@
+D:\Практика по C#\Day25\WinButNum\bin\Debug\WinButNum.exe.config
+D:\Практика по C#\Day25\WinButNum\bin\Debug\WinButNum.exe
+D:\Практика по C#\Day25\WinButNum\bin\Debug\WinButNum.pdb
+D:\Практика по C#\Day25\WinButNum\obj\Debug\WinButNum.csproj.AssemblyReference.cache
+D:\Практика по C#\Day25\WinButNum\obj\Debug\WinButNum.csproj.SuggestedBindingRedirects.cache
+D:\Практика по C#\Day25\WinButNum\obj\Debug\WinButNum.Properties.Resources.resources
+D:\Практика по C#\Day25\WinButNum\obj\Debug\WinButNum.csproj.GenerateResource.cache
+D:\Практика по C#\Day25\WinButNum\obj\Debug\WinButNum.csproj.CoreCompileInputs.cache
+D:\Практика по C#\Day25\WinButNum\obj\Debug\WinButNum.exe
+D:\Практика по C#\Day25\WinButNum\obj\Debug\WinButNum.pdb
+D:\Практика по C#\Day25\WinButNum\obj\Debug\WinButNum.Form1.resources

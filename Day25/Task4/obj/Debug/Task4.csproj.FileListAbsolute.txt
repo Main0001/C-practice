@@ -1,0 +1,17 @@
+D:\Практика по C#\Day25\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+D:\Практика по C#\Day25\Task4\obj\Debug\Task4.csproj.SuggestedBindingRedirects.cache
+D:\Практика по C#\Day25\Task4\obj\Debug\z4.Form1.resources
+D:\Практика по C#\Day25\Task4\obj\Debug\z4.Properties.Resources.resources
+D:\Практика по C#\Day25\Task4\obj\Debug\z4.Form1.en-US.resources
+D:\Практика по C#\Day25\Task4\obj\Debug\z4.Form1.ru-RU.resources
+D:\Практика по C#\Day25\Task4\obj\Debug\Task4.csproj.GenerateResource.cache
+D:\Практика по C#\Day25\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+D:\Практика по C#\Day25\Task4\obj\Debug\z4.exe
+D:\Практика по C#\Day25\Task4\obj\Debug\z4.pdb
+D:\Практика по C#\Day25\Task4\bin\Debug\z4.exe.config
+D:\Практика по C#\Day25\Task4\bin\Debug\z4.exe
+D:\Практика по C#\Day25\Task4\bin\Debug\z4.pdb
+D:\Практика по C#\Day25\Task4\bin\Debug\en-US\z4.resources.dll
+D:\Практика по C#\Day25\Task4\bin\Debug\ru-RU\z4.resources.dll
+D:\Практика по C#\Day25\Task4\obj\Debug\en-US\z4.resources.dll
+D:\Практика по C#\Day25\Task4\obj\Debug\ru-RU\z4.resources.dll
