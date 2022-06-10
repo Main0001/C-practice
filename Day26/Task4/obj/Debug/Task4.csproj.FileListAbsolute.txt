@@ -1,0 +1,16 @@
+D:\Практика по C#\Day26\Task4\bin\Debug\z1.exe.config
+D:\Практика по C#\Day26\Task4\bin\Debug\z1.exe
+D:\Практика по C#\Day26\Task4\bin\Debug\z1.pdb
+D:\Практика по C#\Day26\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+D:\Практика по C#\Day26\Task4\obj\Debug\Task4.csproj.SuggestedBindingRedirects.cache
+D:\Практика по C#\Day26\Task4\obj\Debug\MainWindow.g.cs
+D:\Практика по C#\Day26\Task4\obj\Debug\App.g.cs
+D:\Практика по C#\Day26\Task4\obj\Debug\z1_MarkupCompile.cache
+D:\Практика по C#\Day26\Task4\obj\Debug\z1_MarkupCompile.lref
+D:\Практика по C#\Day26\Task4\obj\Debug\MainWindow.baml
+D:\Практика по C#\Day26\Task4\obj\Debug\z1.g.resources
+D:\Практика по C#\Day26\Task4\obj\Debug\z1.Properties.Resources.resources
+D:\Практика по C#\Day26\Task4\obj\Debug\Task4.csproj.GenerateResource.cache
+D:\Практика по C#\Day26\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+D:\Практика по C#\Day26\Task4\obj\Debug\z1.exe
+D:\Практика по C#\Day26\Task4\obj\Debug\z1.pdb

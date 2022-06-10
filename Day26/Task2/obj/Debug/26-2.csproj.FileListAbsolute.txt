@@ -1,0 +1,16 @@
+D:\work\Практика\Praktik\Day 26\26-2\bin\Debug\26-2.exe.config
+D:\work\Практика\Praktik\Day 26\26-2\bin\Debug\26-2.exe
+D:\work\Практика\Praktik\Day 26\26-2\bin\Debug\26-2.pdb
+D:\work\Практика\Praktik\Day 26\26-2\obj\Debug\26-2.csproj.AssemblyReference.cache
+D:\work\Практика\Praktik\Day 26\26-2\obj\Debug\26-2.csproj.SuggestedBindingRedirects.cache
+D:\work\Практика\Praktik\Day 26\26-2\obj\Debug\MainWindow.g.cs
+D:\work\Практика\Praktik\Day 26\26-2\obj\Debug\App.g.cs
+D:\work\Практика\Praktik\Day 26\26-2\obj\Debug\26-2_MarkupCompile.cache
+D:\work\Практика\Praktik\Day 26\26-2\obj\Debug\26-2_MarkupCompile.lref
+D:\work\Практика\Praktik\Day 26\26-2\obj\Debug\MainWindow.baml
+D:\work\Практика\Praktik\Day 26\26-2\obj\Debug\26-2.g.resources
+D:\work\Практика\Praktik\Day 26\26-2\obj\Debug\_26_2.Properties.Resources.resources
+D:\work\Практика\Praktik\Day 26\26-2\obj\Debug\26-2.csproj.GenerateResource.cache
+D:\work\Практика\Praktik\Day 26\26-2\obj\Debug\26-2.csproj.CoreCompileInputs.cache
+D:\work\Практика\Praktik\Day 26\26-2\obj\Debug\26-2.exe
+D:\work\Практика\Praktik\Day 26\26-2\obj\Debug\26-2.pdb
