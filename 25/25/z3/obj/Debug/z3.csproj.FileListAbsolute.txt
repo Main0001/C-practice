@@ -1,0 +1,43 @@
+D:\Git projects\C-practice\day26\Task\z3\bin\Debug\z2.exe.config
+D:\Git projects\C-practice\day26\Task\z3\bin\Debug\z2.exe
+D:\Git projects\C-practice\day26\Task\z3\bin\Debug\z2.pdb
+D:\Git projects\C-practice\day26\Task\z3\obj\Debug\z3.csproj.SuggestedBindingRedirects.cache
+D:\Git projects\C-practice\day26\Task\z3\obj\Debug\MainWindow.g.cs
+D:\Git projects\C-practice\day26\Task\z3\obj\Debug\App.g.cs
+D:\Git projects\C-practice\day26\Task\z3\obj\Debug\z2_MarkupCompile.cache
+D:\Git projects\C-practice\day26\Task\z3\obj\Debug\MainWindow.baml
+D:\Git projects\C-practice\day26\Task\z3\obj\Debug\z2.g.resources
+D:\Git projects\C-practice\day26\Task\z3\obj\Debug\z2.Properties.Resources.resources
+D:\Git projects\C-practice\day26\Task\z3\obj\Debug\z3.csproj.GenerateResource.cache
+D:\Git projects\C-practice\day26\Task\z3\obj\Debug\z3.csproj.CoreCompileInputs.cache
+D:\Git projects\C-practice\day26\Task\z3\obj\Debug\z2.exe
+D:\Git projects\C-practice\day26\Task\z3\obj\Debug\z2.pdb
+D:\Git projects\C-practice\day26\Task\z3\obj\Debug\z3.csproj.AssemblyReference.cache
+D:\Git projects\C-practice\day26\Task\z3\bin\Debug\LiveCharts.dll
+D:\Git projects\C-practice\day26\Task\z3\bin\Debug\LiveCharts.Wpf.dll
+D:\Git projects\C-practice\day26\Task\z3\bin\Debug\LiveCharts.pdb
+D:\Git projects\C-practice\day26\Task\z3\bin\Debug\LiveCharts.xml
+D:\Git projects\C-practice\day26\Task\z3\bin\Debug\LiveCharts.Wpf.pdb
+D:\Git projects\C-practice\day26\Task\z3\bin\Debug\LiveCharts.Wpf.xml
+D:\Git projects\C-practice\day26\Task\z3\obj\Debug\z3.csproj.CopyComplete
+G:\Колледж\Git\C-practice\25\25\z3\bin\Debug\z2.exe.config
+G:\Колледж\Git\C-practice\25\25\z3\bin\Debug\z2.exe
+G:\Колледж\Git\C-practice\25\25\z3\bin\Debug\z2.pdb
+G:\Колледж\Git\C-practice\25\25\z3\bin\Debug\LiveCharts.dll
+G:\Колледж\Git\C-practice\25\25\z3\bin\Debug\LiveCharts.Wpf.dll
+G:\Колледж\Git\C-practice\25\25\z3\bin\Debug\LiveCharts.pdb
+G:\Колледж\Git\C-practice\25\25\z3\bin\Debug\LiveCharts.xml
+G:\Колледж\Git\C-practice\25\25\z3\bin\Debug\LiveCharts.Wpf.pdb
+G:\Колледж\Git\C-practice\25\25\z3\bin\Debug\LiveCharts.Wpf.xml
+G:\Колледж\Git\C-practice\25\25\z3\obj\Debug\z3.csproj.AssemblyReference.cache
+G:\Колледж\Git\C-practice\25\25\z3\obj\Debug\MainWindow.baml
+G:\Колледж\Git\C-practice\25\25\z3\obj\Debug\MainWindow.g.cs
+G:\Колледж\Git\C-practice\25\25\z3\obj\Debug\App.g.cs
+G:\Колледж\Git\C-practice\25\25\z3\obj\Debug\z2_MarkupCompile.cache
+G:\Колледж\Git\C-practice\25\25\z3\obj\Debug\z2.g.resources
+G:\Колледж\Git\C-practice\25\25\z3\obj\Debug\z2.Properties.Resources.resources
+G:\Колледж\Git\C-practice\25\25\z3\obj\Debug\z3.csproj.GenerateResource.cache
+G:\Колледж\Git\C-practice\25\25\z3\obj\Debug\z3.csproj.CoreCompileInputs.cache
+G:\Колледж\Git\C-practice\25\25\z3\obj\Debug\z3.csproj.CopyComplete
+G:\Колледж\Git\C-practice\25\25\z3\obj\Debug\z2.exe
+G:\Колледж\Git\C-practice\25\25\z3\obj\Debug\z2.pdb

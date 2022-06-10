@@ -1,0 +1,15 @@
+G:\Колледж\Git\C-practice\25\25\z2\bin\Debug\26-2.exe.config
+G:\Колледж\Git\C-practice\25\25\z2\bin\Debug\26-2.exe
+G:\Колледж\Git\C-practice\25\25\z2\bin\Debug\26-2.pdb
+G:\Колледж\Git\C-practice\25\25\z2\obj\Debug\z2.csproj.AssemblyReference.cache
+G:\Колледж\Git\C-practice\25\25\z2\obj\Debug\MainWindow.g.cs
+G:\Колледж\Git\C-practice\25\25\z2\obj\Debug\App.g.cs
+G:\Колледж\Git\C-practice\25\25\z2\obj\Debug\26-2_MarkupCompile.cache
+G:\Колледж\Git\C-practice\25\25\z2\obj\Debug\26-2_MarkupCompile.lref
+G:\Колледж\Git\C-practice\25\25\z2\obj\Debug\MainWindow.baml
+G:\Колледж\Git\C-practice\25\25\z2\obj\Debug\26-2.g.resources
+G:\Колледж\Git\C-practice\25\25\z2\obj\Debug\_26_2.Properties.Resources.resources
+G:\Колледж\Git\C-practice\25\25\z2\obj\Debug\z2.csproj.GenerateResource.cache
+G:\Колледж\Git\C-practice\25\25\z2\obj\Debug\z2.csproj.CoreCompileInputs.cache
+G:\Колледж\Git\C-practice\25\25\z2\obj\Debug\26-2.exe
+G:\Колледж\Git\C-practice\25\25\z2\obj\Debug\26-2.pdb

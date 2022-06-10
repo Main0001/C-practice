@@ -1,0 +1,16 @@
+D:\Git projects\C-practice\day26\Task\z1\bin\Debug\z1.exe.config
+D:\Git projects\C-practice\day26\Task\z1\bin\Debug\z1.exe
+D:\Git projects\C-practice\day26\Task\z1\bin\Debug\z1.pdb
+D:\Git projects\C-practice\day26\Task\z1\obj\Debug\z1.csproj.AssemblyReference.cache
+D:\Git projects\C-practice\day26\Task\z1\obj\Debug\z1.csproj.SuggestedBindingRedirects.cache
+D:\Git projects\C-practice\day26\Task\z1\obj\Debug\MainWindow.g.cs
+D:\Git projects\C-practice\day26\Task\z1\obj\Debug\App.g.cs
+D:\Git projects\C-practice\day26\Task\z1\obj\Debug\z1_MarkupCompile.cache
+D:\Git projects\C-practice\day26\Task\z1\obj\Debug\z1_MarkupCompile.lref
+D:\Git projects\C-practice\day26\Task\z1\obj\Debug\MainWindow.baml
+D:\Git projects\C-practice\day26\Task\z1\obj\Debug\z1.g.resources
+D:\Git projects\C-practice\day26\Task\z1\obj\Debug\z1.Properties.Resources.resources
+D:\Git projects\C-practice\day26\Task\z1\obj\Debug\z1.csproj.GenerateResource.cache
+D:\Git projects\C-practice\day26\Task\z1\obj\Debug\z1.csproj.CoreCompileInputs.cache
+D:\Git projects\C-practice\day26\Task\z1\obj\Debug\z1.exe
+D:\Git projects\C-practice\day26\Task\z1\obj\Debug\z1.pdb
