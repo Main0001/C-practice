@@ -1,0 +1,52 @@
+D:\Git projects\C-practice\day27\Task\z1\bin\Debug\z1.exe.config
+D:\Git projects\C-practice\day27\Task\z1\bin\Debug\z1.exe
+D:\Git projects\C-practice\day27\Task\z1\bin\Debug\z1.pdb
+D:\Git projects\C-practice\day27\Task\z1\obj\Debug\z1.csproj.SuggestedBindingRedirects.cache
+D:\Git projects\C-practice\day27\Task\z1\obj\Debug\MainWindow.g.cs
+D:\Git projects\C-practice\day27\Task\z1\obj\Debug\App.g.cs
+D:\Git projects\C-practice\day27\Task\z1\obj\Debug\z1_MarkupCompile.cache
+D:\Git projects\C-practice\day27\Task\z1\obj\Debug\z1_MarkupCompile.lref
+D:\Git projects\C-practice\day27\Task\z1\obj\Debug\MainWindow.baml
+D:\Git projects\C-practice\day27\Task\z1\obj\Debug\z1.g.resources
+D:\Git projects\C-practice\day27\Task\z1\obj\Debug\z1.Properties.Resources.resources
+D:\Git projects\C-practice\day27\Task\z1\obj\Debug\z1.csproj.GenerateResource.cache
+D:\Git projects\C-practice\day27\Task\z1\obj\Debug\z1.csproj.CoreCompileInputs.cache
+D:\Git projects\C-practice\day27\Task\z1\obj\Debug\z1.exe
+D:\Git projects\C-practice\day27\Task\z1\obj\Debug\z1.pdb
+D:\Git projects\C-practice\day27\Task\z1\obj\Debug\xmlAddWindows.g.cs
+D:\Git projects\C-practice\day27\Task\z1\obj\Debug\xmlAddWindows.baml
+D:\Git projects\C-practice\day27\Task\z1\obj\Debug\z1.csproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\day27\day27\Task\z1\bin\Debug\z1.exe.config
+C:\Users\Leo\Desktop\day27\day27\Task\z1\bin\Debug\z1.exe
+C:\Users\Leo\Desktop\day27\day27\Task\z1\bin\Debug\z1.pdb
+C:\Users\Leo\Desktop\day27\day27\Task\z1\obj\Debug\z1.csproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\day27\day27\Task\z1\obj\Debug\MainWindow.g.cs
+C:\Users\Leo\Desktop\day27\day27\Task\z1\obj\Debug\xmlAddWindows.g.cs
+C:\Users\Leo\Desktop\day27\day27\Task\z1\obj\Debug\App.g.cs
+C:\Users\Leo\Desktop\day27\day27\Task\z1\obj\Debug\z1_MarkupCompile.cache
+C:\Users\Leo\Desktop\day27\day27\Task\z1\obj\Debug\z1_MarkupCompile.lref
+C:\Users\Leo\Desktop\day27\day27\Task\z1\obj\Debug\MainWindow.baml
+C:\Users\Leo\Desktop\day27\day27\Task\z1\obj\Debug\xmlAddWindows.baml
+C:\Users\Leo\Desktop\day27\day27\Task\z1\obj\Debug\z1.g.resources
+C:\Users\Leo\Desktop\day27\day27\Task\z1\obj\Debug\z1.Properties.Resources.resources
+C:\Users\Leo\Desktop\day27\day27\Task\z1\obj\Debug\z1.csproj.GenerateResource.cache
+C:\Users\Leo\Desktop\day27\day27\Task\z1\obj\Debug\z1.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\day27\day27\Task\z1\obj\Debug\z1.exe
+C:\Users\Leo\Desktop\day27\day27\Task\z1\obj\Debug\z1.pdb
+G:\Колледж\Git\C-practice\26\26\z1\bin\Debug\z1.exe.config
+G:\Колледж\Git\C-practice\26\26\z1\bin\Debug\z1.exe
+G:\Колледж\Git\C-practice\26\26\z1\bin\Debug\z1.pdb
+G:\Колледж\Git\C-practice\26\26\z1\obj\Debug\z1.csproj.AssemblyReference.cache
+G:\Колледж\Git\C-practice\26\26\z1\obj\Debug\MainWindow.g.cs
+G:\Колледж\Git\C-practice\26\26\z1\obj\Debug\xmlAddWindows.g.cs
+G:\Колледж\Git\C-practice\26\26\z1\obj\Debug\App.g.cs
+G:\Колледж\Git\C-practice\26\26\z1\obj\Debug\z1_MarkupCompile.cache
+G:\Колледж\Git\C-practice\26\26\z1\obj\Debug\z1_MarkupCompile.lref
+G:\Колледж\Git\C-practice\26\26\z1\obj\Debug\MainWindow.baml
+G:\Колледж\Git\C-practice\26\26\z1\obj\Debug\xmlAddWindows.baml
+G:\Колледж\Git\C-practice\26\26\z1\obj\Debug\z1.g.resources
+G:\Колледж\Git\C-practice\26\26\z1\obj\Debug\z1.Properties.Resources.resources
+G:\Колледж\Git\C-practice\26\26\z1\obj\Debug\z1.csproj.GenerateResource.cache
+G:\Колледж\Git\C-practice\26\26\z1\obj\Debug\z1.csproj.CoreCompileInputs.cache
+G:\Колледж\Git\C-practice\26\26\z1\obj\Debug\z1.exe
+G:\Колледж\Git\C-practice\26\26\z1\obj\Debug\z1.pdb
