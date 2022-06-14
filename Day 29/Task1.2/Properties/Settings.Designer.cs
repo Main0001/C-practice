@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace _29_1_1_.Properties
+namespace Task1._2.Properties
 {
 
 

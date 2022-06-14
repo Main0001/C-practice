@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E49AC91F-7EF1-4A73-98F2-2D0DD924B9EE}</ProjectGuid>
+    <ProjectGuid>{6AB6E62A-9C9A-41E8-94BF-7254BFD2B1CE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>_29_1_1_</RootNamespace>
-    <AssemblyName>29-1%281%29</AssemblyName>
+    <RootNamespace>job1</RootNamespace>
+    <AssemblyName>job1</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
