@@ -1,0 +1,17 @@
+D:\Практика по C#\Day29\Task1.1\bin\Release\TaskExample.exe.config
+D:\Практика по C#\Day29\Task1.1\bin\Release\TaskExample.exe
+D:\Практика по C#\Day29\Task1.1\bin\Release\TaskExample.pdb
+D:\Практика по C#\Day29\Task1.1\obj\Release\Task1.1.csproj.AssemblyReference.cache
+D:\Практика по C#\Day29\Task1.1\obj\Release\Task1.1.csproj.SuggestedBindingRedirects.cache
+D:\Практика по C#\Day29\Task1.1\obj\Release\MainWindow.g.cs
+D:\Практика по C#\Day29\Task1.1\obj\Release\App.g.cs
+D:\Практика по C#\Day29\Task1.1\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Практика по C#\Day29\Task1.1\obj\Release\TaskExample_MarkupCompile.cache
+D:\Практика по C#\Day29\Task1.1\obj\Release\TaskExample_MarkupCompile.lref
+D:\Практика по C#\Day29\Task1.1\obj\Release\MainWindow.baml
+D:\Практика по C#\Day29\Task1.1\obj\Release\TaskExample.g.resources
+D:\Практика по C#\Day29\Task1.1\obj\Release\TaskExample.Properties.Resources.resources
+D:\Практика по C#\Day29\Task1.1\obj\Release\Task1.1.csproj.GenerateResource.cache
+D:\Практика по C#\Day29\Task1.1\obj\Release\Task1.1.csproj.CoreCompileInputs.cache
+D:\Практика по C#\Day29\Task1.1\obj\Release\TaskExample.exe
+D:\Практика по C#\Day29\Task1.1\obj\Release\TaskExample.pdb

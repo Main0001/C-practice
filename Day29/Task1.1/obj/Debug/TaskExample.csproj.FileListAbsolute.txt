@@ -1,0 +1,17 @@
+D:\КУРСОВАЯ C#\Day29\TaskExample\bin\Debug\TaskExample.exe.config
+D:\КУРСОВАЯ C#\Day29\TaskExample\bin\Debug\TaskExample.exe
+D:\КУРСОВАЯ C#\Day29\TaskExample\bin\Debug\TaskExample.pdb
+D:\КУРСОВАЯ C#\Day29\TaskExample\obj\Debug\TaskExample.csproj.AssemblyReference.cache
+D:\КУРСОВАЯ C#\Day29\TaskExample\obj\Debug\TaskExample.csproj.SuggestedBindingRedirects.cache
+D:\КУРСОВАЯ C#\Day29\TaskExample\obj\Debug\MainWindow.g.cs
+D:\КУРСОВАЯ C#\Day29\TaskExample\obj\Debug\App.g.cs
+D:\КУРСОВАЯ C#\Day29\TaskExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\КУРСОВАЯ C#\Day29\TaskExample\obj\Debug\TaskExample_MarkupCompile.cache
+D:\КУРСОВАЯ C#\Day29\TaskExample\obj\Debug\TaskExample_MarkupCompile.lref
+D:\КУРСОВАЯ C#\Day29\TaskExample\obj\Debug\MainWindow.baml
+D:\КУРСОВАЯ C#\Day29\TaskExample\obj\Debug\TaskExample.g.resources
+D:\КУРСОВАЯ C#\Day29\TaskExample\obj\Debug\TaskExample.Properties.Resources.resources
+D:\КУРСОВАЯ C#\Day29\TaskExample\obj\Debug\TaskExample.csproj.GenerateResource.cache
+D:\КУРСОВАЯ C#\Day29\TaskExample\obj\Debug\TaskExample.csproj.CoreCompileInputs.cache
+D:\КУРСОВАЯ C#\Day29\TaskExample\obj\Debug\TaskExample.exe
+D:\КУРСОВАЯ C#\Day29\TaskExample\obj\Debug\TaskExample.pdb
