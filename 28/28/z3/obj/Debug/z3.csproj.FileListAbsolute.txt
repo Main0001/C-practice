@@ -1,0 +1,31 @@
+D:\Git projects\C-practice\day29\Task\z3\bin\Debug\z3.exe.config
+D:\Git projects\C-practice\day29\Task\z3\bin\Debug\z3.exe
+D:\Git projects\C-practice\day29\Task\z3\bin\Debug\z3.pdb
+D:\Git projects\C-practice\day29\Task\z3\obj\Debug\z3.csproj.AssemblyReference.cache
+D:\Git projects\C-practice\day29\Task\z3\obj\Debug\z3.csproj.SuggestedBindingRedirects.cache
+D:\Git projects\C-practice\day29\Task\z3\obj\Debug\MainWindow.g.cs
+D:\Git projects\C-practice\day29\Task\z3\obj\Debug\App.g.cs
+D:\Git projects\C-practice\day29\Task\z3\obj\Debug\z3_MarkupCompile.cache
+D:\Git projects\C-practice\day29\Task\z3\obj\Debug\z3_MarkupCompile.lref
+D:\Git projects\C-practice\day29\Task\z3\obj\Debug\MainWindow.baml
+D:\Git projects\C-practice\day29\Task\z3\obj\Debug\z3.g.resources
+D:\Git projects\C-practice\day29\Task\z3\obj\Debug\z3.Properties.Resources.resources
+D:\Git projects\C-practice\day29\Task\z3\obj\Debug\z3.csproj.GenerateResource.cache
+D:\Git projects\C-practice\day29\Task\z3\obj\Debug\z3.csproj.CoreCompileInputs.cache
+D:\Git projects\C-practice\day29\Task\z3\obj\Debug\z3.exe
+D:\Git projects\C-practice\day29\Task\z3\obj\Debug\z3.pdb
+G:\Колледж\Git\C-practice\28\28\z3\bin\Debug\z3.exe.config
+G:\Колледж\Git\C-practice\28\28\z3\bin\Debug\z3.exe
+G:\Колледж\Git\C-practice\28\28\z3\bin\Debug\z3.pdb
+G:\Колледж\Git\C-practice\28\28\z3\obj\Debug\z3.csproj.AssemblyReference.cache
+G:\Колледж\Git\C-practice\28\28\z3\obj\Debug\MainWindow.g.cs
+G:\Колледж\Git\C-practice\28\28\z3\obj\Debug\App.g.cs
+G:\Колледж\Git\C-practice\28\28\z3\obj\Debug\z3_MarkupCompile.cache
+G:\Колледж\Git\C-practice\28\28\z3\obj\Debug\z3_MarkupCompile.lref
+G:\Колледж\Git\C-practice\28\28\z3\obj\Debug\MainWindow.baml
+G:\Колледж\Git\C-practice\28\28\z3\obj\Debug\z3.g.resources
+G:\Колледж\Git\C-practice\28\28\z3\obj\Debug\z3.Properties.Resources.resources
+G:\Колледж\Git\C-practice\28\28\z3\obj\Debug\z3.csproj.GenerateResource.cache
+G:\Колледж\Git\C-practice\28\28\z3\obj\Debug\z3.csproj.CoreCompileInputs.cache
+G:\Колледж\Git\C-practice\28\28\z3\obj\Debug\z3.exe
+G:\Колледж\Git\C-practice\28\28\z3\obj\Debug\z3.pdb

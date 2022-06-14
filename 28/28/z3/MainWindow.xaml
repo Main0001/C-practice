@@ -1,0 +1,52 @@
+﻿<Window x:Class="z3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:z3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Circle button" HorizontalAlignment="Left" Height="100" Margin="194,159,0,0" VerticalAlignment="Top" Width="100" Background="#FF85FD0D">
+            <Button.Clip>
+                <EllipseGeometry Center="50,50" RadiusX="50" RadiusY="50"></EllipseGeometry>
+            </Button.Clip>
+        </Button>
+        <Button Content="Triangle button" HorizontalAlignment="Left" Height="85" Margin="536,196,0,0" VerticalAlignment="Top" Width="88" RenderTransformOrigin="0.5,0.5" Background="#FFBF1B4F">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="134.842"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Clip>
+                <PathGeometry>
+                    <PathFigure IsClosed="True" StartPoint="10 10">
+                        <LineSegment Point="10 100"/>
+                        <LineSegment Point="100 100"/>
+                    </PathFigure>
+                </PathGeometry>
+            </Button.Clip>
+        </Button>
+        <Button Content="Pyramid button" HorizontalAlignment="Center" Height="100" Margin="400,154,351,0" VerticalAlignment="Top" Width="41" RenderTransformOrigin="0.5,0.5" Background="#FFB97BD6">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.402"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Clip>
+                <PathGeometry>
+                    <PathFigure IsClosed="True" StartPoint="10 10">
+                        <LineSegment Point="-1 100"/>
+                        <LineSegment Point="80 200"/>
+                    </PathFigure>
+                </PathGeometry>
+            </Button.Clip>
+        </Button>
+    </Grid>
+</Window>

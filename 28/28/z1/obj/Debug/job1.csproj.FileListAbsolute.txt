@@ -1,0 +1,30 @@
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№28\practice28\job1\obj\Debug\job1.csproj.AssemblyReference.cache
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№28\practice28\job1\obj\Debug\job1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№28\practice28\job1\obj\Debug\MainWindow.g.cs
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№28\practice28\job1\obj\Debug\App.g.cs
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№28\practice28\job1\obj\Debug\job1_MarkupCompile.cache
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№28\practice28\job1\obj\Debug\MainWindow.baml
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№28\practice28\job1\obj\Debug\job1.g.resources
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№28\practice28\job1\obj\Debug\job1.Properties.Resources.resources
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№28\practice28\job1\obj\Debug\job1.csproj.GenerateResource.cache
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№28\practice28\job1\obj\Debug\job1.csproj.CoreCompileInputs.cache
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№28\practice28\job1\bin\Debug\job1.exe.config
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№28\practice28\job1\bin\Debug\job1.exe
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№28\practice28\job1\bin\Debug\job1.pdb
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№28\practice28\job1\obj\Debug\job1.exe
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№28\practice28\job1\obj\Debug\job1.pdb
+C:\Users\Полина\Desktop\Кпияп\Практика\practice28\job1\bin\Debug\job1.exe.config
+C:\Users\Полина\Desktop\Кпияп\Практика\practice28\job1\bin\Debug\job1.exe
+C:\Users\Полина\Desktop\Кпияп\Практика\practice28\job1\bin\Debug\job1.pdb
+C:\Users\Полина\Desktop\Кпияп\Практика\practice28\job1\obj\Debug\job1.csproj.AssemblyReference.cache
+C:\Users\Полина\Desktop\Кпияп\Практика\practice28\job1\obj\Debug\job1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Полина\Desktop\Кпияп\Практика\practice28\job1\obj\Debug\MainWindow.baml
+C:\Users\Полина\Desktop\Кпияп\Практика\practice28\job1\obj\Debug\MainWindow.g.cs
+C:\Users\Полина\Desktop\Кпияп\Практика\practice28\job1\obj\Debug\App.g.cs
+C:\Users\Полина\Desktop\Кпияп\Практика\practice28\job1\obj\Debug\job1_MarkupCompile.cache
+C:\Users\Полина\Desktop\Кпияп\Практика\practice28\job1\obj\Debug\job1.g.resources
+C:\Users\Полина\Desktop\Кпияп\Практика\practice28\job1\obj\Debug\job1.Properties.Resources.resources
+C:\Users\Полина\Desktop\Кпияп\Практика\practice28\job1\obj\Debug\job1.csproj.GenerateResource.cache
+C:\Users\Полина\Desktop\Кпияп\Практика\practice28\job1\obj\Debug\job1.csproj.CoreCompileInputs.cache
+C:\Users\Полина\Desktop\Кпияп\Практика\practice28\job1\obj\Debug\job1.exe
+C:\Users\Полина\Desktop\Кпияп\Практика\practice28\job1\obj\Debug\job1.pdb

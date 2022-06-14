@@ -1,0 +1,15 @@
+G:\Колледж\Git\C-practice\28\28\z2\bin\Debug\Task2.exe.config
+G:\Колледж\Git\C-practice\28\28\z2\bin\Debug\Task2.exe
+G:\Колледж\Git\C-practice\28\28\z2\bin\Debug\Task2.pdb
+G:\Колледж\Git\C-practice\28\28\z2\obj\Debug\MainWindow.g.cs
+G:\Колледж\Git\C-practice\28\28\z2\obj\Debug\App.g.cs
+G:\Колледж\Git\C-practice\28\28\z2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Колледж\Git\C-practice\28\28\z2\obj\Debug\Task2_MarkupCompile.cache
+G:\Колледж\Git\C-practice\28\28\z2\obj\Debug\Task2_MarkupCompile.lref
+G:\Колледж\Git\C-practice\28\28\z2\obj\Debug\MainWindow.baml
+G:\Колледж\Git\C-practice\28\28\z2\obj\Debug\Task2.g.resources
+G:\Колледж\Git\C-practice\28\28\z2\obj\Debug\Task2.Properties.Resources.resources
+G:\Колледж\Git\C-practice\28\28\z2\obj\Debug\z2.csproj.GenerateResource.cache
+G:\Колледж\Git\C-practice\28\28\z2\obj\Debug\z2.csproj.CoreCompileInputs.cache
+G:\Колледж\Git\C-practice\28\28\z2\obj\Debug\Task2.exe
+G:\Колледж\Git\C-practice\28\28\z2\obj\Debug\Task2.pdb
