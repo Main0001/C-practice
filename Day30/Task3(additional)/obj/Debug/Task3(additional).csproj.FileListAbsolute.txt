@@ -1,0 +1,11 @@
+D:\Практика по C#\Day30\Task3(additional)\bin\Debug\z4-3.exe.config
+D:\Практика по C#\Day30\Task3(additional)\bin\Debug\z4-3.exe
+D:\Практика по C#\Day30\Task3(additional)\bin\Debug\z4-3.pdb
+D:\Практика по C#\Day30\Task3(additional)\obj\Debug\Task3(additional).csproj.AssemblyReference.cache
+D:\Практика по C#\Day30\Task3(additional)\obj\Debug\Task3(additional).csproj.SuggestedBindingRedirects.cache
+D:\Практика по C#\Day30\Task3(additional)\obj\Debug\z4_3.Form1.resources
+D:\Практика по C#\Day30\Task3(additional)\obj\Debug\z4_3.Properties.Resources.resources
+D:\Практика по C#\Day30\Task3(additional)\obj\Debug\Task3(additional).csproj.GenerateResource.cache
+D:\Практика по C#\Day30\Task3(additional)\obj\Debug\Task3(additional).csproj.CoreCompileInputs.cache
+D:\Практика по C#\Day30\Task3(additional)\obj\Debug\z4-3.exe
+D:\Практика по C#\Day30\Task3(additional)\obj\Debug\z4-3.pdb
