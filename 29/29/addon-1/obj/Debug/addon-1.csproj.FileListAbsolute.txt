@@ -1,0 +1,10 @@
+G:\Колледж\Git\C-practice\29\29\addon-1\bin\Debug\Task1(additional).exe.config
+G:\Колледж\Git\C-practice\29\29\addon-1\bin\Debug\Task1(additional).exe
+G:\Колледж\Git\C-practice\29\29\addon-1\bin\Debug\Task1(additional).pdb
+G:\Колледж\Git\C-practice\29\29\addon-1\obj\Debug\addon-1.csproj.AssemblyReference.cache
+G:\Колледж\Git\C-practice\29\29\addon-1\obj\Debug\Task1_additional_.Form1.resources
+G:\Колледж\Git\C-practice\29\29\addon-1\obj\Debug\Task1_additional_.Properties.Resources.resources
+G:\Колледж\Git\C-practice\29\29\addon-1\obj\Debug\addon-1.csproj.GenerateResource.cache
+G:\Колледж\Git\C-practice\29\29\addon-1\obj\Debug\addon-1.csproj.CoreCompileInputs.cache
+G:\Колледж\Git\C-practice\29\29\addon-1\obj\Debug\Task1(additional).exe
+G:\Колледж\Git\C-practice\29\29\addon-1\obj\Debug\Task1(additional).pdb

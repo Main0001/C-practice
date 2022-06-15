@@ -1,0 +1,11 @@
+C:\Users\makmu\OneDrive\Рабочий стол\Day30\Task1(additional)\bin\Debug\Task1(additional).exe.config
+C:\Users\makmu\OneDrive\Рабочий стол\Day30\Task1(additional)\bin\Debug\Task1(additional).exe
+C:\Users\makmu\OneDrive\Рабочий стол\Day30\Task1(additional)\bin\Debug\Task1(additional).pdb
+C:\Users\makmu\OneDrive\Рабочий стол\Day30\Task1(additional)\obj\Debug\Task1(additional).csproj.AssemblyReference.cache
+C:\Users\makmu\OneDrive\Рабочий стол\Day30\Task1(additional)\obj\Debug\Task1(additional).csproj.SuggestedBindingRedirects.cache
+C:\Users\makmu\OneDrive\Рабочий стол\Day30\Task1(additional)\obj\Debug\Task1_additional_.Form1.resources
+C:\Users\makmu\OneDrive\Рабочий стол\Day30\Task1(additional)\obj\Debug\Task1_additional_.Properties.Resources.resources
+C:\Users\makmu\OneDrive\Рабочий стол\Day30\Task1(additional)\obj\Debug\Task1(additional).csproj.GenerateResource.cache
+C:\Users\makmu\OneDrive\Рабочий стол\Day30\Task1(additional)\obj\Debug\Task1(additional).csproj.CoreCompileInputs.cache
+C:\Users\makmu\OneDrive\Рабочий стол\Day30\Task1(additional)\obj\Debug\Task1(additional).exe
+C:\Users\makmu\OneDrive\Рабочий стол\Day30\Task1(additional)\obj\Debug\Task1(additional).pdb
