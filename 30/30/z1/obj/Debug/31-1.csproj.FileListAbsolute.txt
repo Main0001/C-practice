@@ -1,0 +1,28 @@
+D:\work\Практика\Praktik\Day 31\30-1\bin\Debug\DBTur_firm.mdf
+D:\work\Практика\Praktik\Day 31\30-1\bin\Debug\DBTur_firm_log.ldf
+D:\work\Практика\Praktik\Day 31\30-1\bin\Debug\30-1.exe.config
+D:\work\Практика\Praktik\Day 31\30-1\bin\Debug\30-1.exe
+D:\work\Практика\Praktik\Day 31\30-1\bin\Debug\30-1.pdb
+D:\work\Практика\Praktik\Day 31\30-1\obj\Debug\31-1.csproj.AssemblyReference.cache
+D:\work\Практика\Praktik\Day 31\30-1\obj\Debug\31-1.csproj.SuggestedBindingRedirects.cache
+D:\work\Практика\Praktik\Day 31\30-1\obj\Debug\_30_1.Form1.resources
+D:\work\Практика\Praktik\Day 31\30-1\obj\Debug\_30_1.Properties.Resources.resources
+D:\work\Практика\Praktik\Day 31\30-1\obj\Debug\31-1.csproj.GenerateResource.cache
+D:\work\Практика\Praktik\Day 31\30-1\obj\Debug\31-1.csproj.CoreCompileInputs.cache
+D:\work\Практика\Praktik\Day 31\30-1\obj\Debug\30-1.exe
+D:\work\Практика\Praktik\Day 31\30-1\obj\Debug\30-1.pdb
+D:\work\Практика\Praktik\Day 31\30-1\obj\Debug\_30_1.editTableForm.resources
+D:\Git projects\C-practice\day31\Day 31\30-1\bin\Debug\DBTur_firm.mdf
+D:\Git projects\C-practice\day31\Day 31\30-1\bin\Debug\DBTur_firm_log.ldf
+D:\Git projects\C-practice\day31\Day 31\30-1\bin\Debug\30-1.exe.config
+D:\Git projects\C-practice\day31\Day 31\30-1\bin\Debug\30-1.exe
+D:\Git projects\C-practice\day31\Day 31\30-1\bin\Debug\30-1.pdb
+D:\Git projects\C-practice\day31\Day 31\30-1\obj\Debug\31-1.csproj.AssemblyReference.cache
+D:\Git projects\C-practice\day31\Day 31\30-1\obj\Debug\31-1.csproj.SuggestedBindingRedirects.cache
+D:\Git projects\C-practice\day31\Day 31\30-1\obj\Debug\_30_1.editTableForm.resources
+D:\Git projects\C-practice\day31\Day 31\30-1\obj\Debug\_30_1.Form1.resources
+D:\Git projects\C-practice\day31\Day 31\30-1\obj\Debug\_30_1.Properties.Resources.resources
+D:\Git projects\C-practice\day31\Day 31\30-1\obj\Debug\31-1.csproj.GenerateResource.cache
+D:\Git projects\C-practice\day31\Day 31\30-1\obj\Debug\31-1.csproj.CoreCompileInputs.cache
+D:\Git projects\C-practice\day31\Day 31\30-1\obj\Debug\30-1.exe
+D:\Git projects\C-practice\day31\Day 31\30-1\obj\Debug\30-1.pdb
