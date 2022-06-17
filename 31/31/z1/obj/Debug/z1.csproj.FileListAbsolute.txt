@@ -1,0 +1,28 @@
+C:\Users\makmu\OneDrive\Рабочий стол\30\30\z1\bin\Debug\DBTur_firm.mdf
+C:\Users\makmu\OneDrive\Рабочий стол\30\30\z1\bin\Debug\DBTur_firm_log.ldf
+C:\Users\makmu\OneDrive\Рабочий стол\30\30\z1\bin\Debug\30-1.exe.config
+C:\Users\makmu\OneDrive\Рабочий стол\30\30\z1\bin\Debug\30-1.exe
+C:\Users\makmu\OneDrive\Рабочий стол\30\30\z1\bin\Debug\30-1.pdb
+C:\Users\makmu\OneDrive\Рабочий стол\30\30\z1\obj\Debug\z1.csproj.AssemblyReference.cache
+C:\Users\makmu\OneDrive\Рабочий стол\30\30\z1\obj\Debug\z1.csproj.SuggestedBindingRedirects.cache
+C:\Users\makmu\OneDrive\Рабочий стол\30\30\z1\obj\Debug\_30_1.editTableForm.resources
+C:\Users\makmu\OneDrive\Рабочий стол\30\30\z1\obj\Debug\_30_1.Form1.resources
+C:\Users\makmu\OneDrive\Рабочий стол\30\30\z1\obj\Debug\_30_1.Properties.Resources.resources
+C:\Users\makmu\OneDrive\Рабочий стол\30\30\z1\obj\Debug\z1.csproj.GenerateResource.cache
+C:\Users\makmu\OneDrive\Рабочий стол\30\30\z1\obj\Debug\z1.csproj.CoreCompileInputs.cache
+C:\Users\makmu\OneDrive\Рабочий стол\30\30\z1\obj\Debug\30-1.exe
+C:\Users\makmu\OneDrive\Рабочий стол\30\30\z1\obj\Debug\30-1.pdb
+C:\Users\mrtal\Desktop\31\31\z1\bin\Debug\DBTur_firm.mdf
+C:\Users\mrtal\Desktop\31\31\z1\bin\Debug\DBTur_firm_log.ldf
+C:\Users\mrtal\Desktop\31\31\z1\bin\Debug\30-1.exe.config
+C:\Users\mrtal\Desktop\31\31\z1\bin\Debug\30-1.exe
+C:\Users\mrtal\Desktop\31\31\z1\bin\Debug\30-1.pdb
+C:\Users\mrtal\Desktop\31\31\z1\obj\Debug\z1.csproj.AssemblyReference.cache
+C:\Users\mrtal\Desktop\31\31\z1\obj\Debug\z1.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrtal\Desktop\31\31\z1\obj\Debug\_30_1.EditTable.resources
+C:\Users\mrtal\Desktop\31\31\z1\obj\Debug\_30_1.Form1.resources
+C:\Users\mrtal\Desktop\31\31\z1\obj\Debug\_30_1.Properties.Resources.resources
+C:\Users\mrtal\Desktop\31\31\z1\obj\Debug\z1.csproj.GenerateResource.cache
+C:\Users\mrtal\Desktop\31\31\z1\obj\Debug\z1.csproj.CoreCompileInputs.cache
+C:\Users\mrtal\Desktop\31\31\z1\obj\Debug\30-1.exe
+C:\Users\mrtal\Desktop\31\31\z1\obj\Debug\30-1.pdb
