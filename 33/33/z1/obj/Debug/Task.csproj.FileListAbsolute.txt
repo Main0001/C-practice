@@ -1,0 +1,26 @@
+D:\work\Практика\Praktik\Day 34\Task\bin\Debug\Data\DBTur_firm.mdf
+D:\work\Практика\Praktik\Day 34\Task\bin\Debug\Data\DBTur_firm_log.ldf
+D:\work\Практика\Praktik\Day 34\Task\bin\Debug\30-1.exe.config
+D:\work\Практика\Praktik\Day 34\Task\bin\Debug\30-1.exe
+D:\work\Практика\Praktik\Day 34\Task\bin\Debug\30-1.pdb
+D:\work\Практика\Praktik\Day 34\Task\obj\Debug\Task.csproj.AssemblyReference.cache
+D:\work\Практика\Praktik\Day 34\Task\obj\Debug\Task.csproj.SuggestedBindingRedirects.cache
+D:\work\Практика\Praktik\Day 34\Task\obj\Debug\_30_1.Properties.Resources.resources
+D:\work\Практика\Praktik\Day 34\Task\obj\Debug\Task.csproj.GenerateResource.cache
+D:\work\Практика\Praktik\Day 34\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+D:\work\Практика\Praktik\Day 34\Task\obj\Debug\30-1.exe
+D:\work\Практика\Praktik\Day 34\Task\obj\Debug\30-1.pdb
+D:\work\Практика\Praktik\Day 34\Task\obj\Debug\_30_1.Form1.resources
+D:\Практика по C#\Day34\Task\bin\Debug\Data\DBTur_firm.mdf
+D:\Практика по C#\Day34\Task\bin\Debug\Data\DBTur_firm_log.ldf
+D:\Практика по C#\Day34\Task\bin\Debug\30-1.exe.config
+D:\Практика по C#\Day34\Task\bin\Debug\30-1.exe
+D:\Практика по C#\Day34\Task\bin\Debug\30-1.pdb
+D:\Практика по C#\Day34\Task\obj\Debug\Task.csproj.AssemblyReference.cache
+D:\Практика по C#\Day34\Task\obj\Debug\Task.csproj.SuggestedBindingRedirects.cache
+D:\Практика по C#\Day34\Task\obj\Debug\_30_1.Form1.resources
+D:\Практика по C#\Day34\Task\obj\Debug\_30_1.Properties.Resources.resources
+D:\Практика по C#\Day34\Task\obj\Debug\Task.csproj.GenerateResource.cache
+D:\Практика по C#\Day34\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+D:\Практика по C#\Day34\Task\obj\Debug\30-1.exe
+D:\Практика по C#\Day34\Task\obj\Debug\30-1.pdb
