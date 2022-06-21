@@ -1,0 +1,2 @@
+D:\Git projects\C-practice\day35\Task\Task\bin\Debug\ru-RU\Task.msi
+D:\Git projects\C-practice\day35\Task\Task\bin\Debug\ru-RU\Task.wixpdb
